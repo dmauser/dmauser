@@ -13,7 +13,7 @@ I am Cloud Networking Specialist at Microsoft. Therefore you will find mostly Az
 - [Azure Route Server](#Azure-Route-Server)
 - [Azure Firewall](#Azure-Firewall)
 - [Other related topics](#Other-related-topics)
-- [Other useful GitHub repos](#Other useful GitHub repos]
+- [Useful GitHub repos](#Useful-Github-repos)
 
 ## OPNsense NVA in Azure
 - [Deploy OPNSense on FreeBSD VM](https://github.com/dmauser/opnazure)
@@ -49,4 +49,4 @@ I am Cloud Networking Specialist at Microsoft. Therefore you will find mostly Az
 
 ## Other-related-topics
 
-## Other useful GitHub repos
+## Useful Github repos
