@@ -51,3 +51,15 @@ I am Cloud Networking Specialist at Microsoft. Therefore you will find mostly Az
 - [Running DHCP Server on Azure VM](https://github.com/dmauser/DHCPServer-On-Azure)
 
 ## Useful Github repos
+
+Recommended GitHub repos to check out with relevant Azure Networking content:
+
+- https://github.com/paolosalvatori
+- https://github.com/jocortems
+- https://github.com/erjosito
+- https://github.com/adstuart
+- https://github.com/jwrightazure
+- https://github.com/jtracey93
+- https://github.com/fguerri
+- https://github.com/hsze
+- https://github.com/mddazure
