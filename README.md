@@ -48,5 +48,6 @@ I am Cloud Networking Specialist at Microsoft. Therefore you will find mostly Az
 - [Using Azure Firewall to inspect traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
 
 ## Other-related-topics
+- [Running DHCP Server on Azure VM](https://github.com/dmauser/DHCPServer-On-Azure)
 
 ## Useful Github repos
