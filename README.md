@@ -1,6 +1,6 @@
 ### Introduction
 
-I am Cloud Networking Specialist at Microsoft. Therefore you will find mostly Azure Networking related stuff here.
+I am currently working as a Cloud Networking Specialist at Microsoft. Therefore you will find most of the content related to Azure Networking.
 
 ### Repository Structure
 
