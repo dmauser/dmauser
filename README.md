@@ -7,7 +7,7 @@ I am currently working as a Cloud Networking Specialist at Microsoft. Therefore 
 - [OPNsense NVA in Azure](#OPNsense-NVA-in-Azure)
 - [Azure VPN Gateway](#Azure-VPN-Gateway)
 - [ExpressRoute](#ExpressRoute)
-- [Azure Virtual WAN (VWAN)](#Azure-Virtua-lWAN)
+- [Azure Virtual WAN (VWAN)](#Azure-Virtua-WAN)
 - [Private Link](#Private-Link)
 - [Azure Files](#Azure-Files)
 - [Azure Route Server](#Azure-Route-Server)
