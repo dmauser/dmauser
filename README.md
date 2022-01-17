@@ -2,8 +2,6 @@
 
 I am currently working as a Cloud Networking Specialist at Microsoft. Therefore you will find most of the content related to Azure Networking.
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=dmauser&repo=github-visitors-badge&countColor=%237B1E7A)
-
 ### Repository Structure
 
 - [OPNsense NVA in Azure](#OPNsense-NVA-in-Azure)
