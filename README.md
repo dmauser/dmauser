@@ -21,6 +21,7 @@ I am currently working as a Cloud Networking Specialist at Microsoft. Therefore 
 ## Azure VPN Gateway
 - [Verify BGP information on Azure VPN and ExpressRoute Gateways](https://github.com/dmauser/Lab/tree/master/ER-and-VPN-Gateway-BGP-info)
 - [Troubleshooting IPSec by using IKE Logs](https://github.com/dmauser/Lab/tree/master/VPN-gateway-IKE-logs)
+- [Site-to-Site VPN between Azure and GCP (static routing)](https://github.com/dmauser/azure-vpn-s2s-gcp)
 
 ## ExpressRoute
 - [Deploying Local SKU ExpressRoute Circuits](https://github.com/dmauser/Lab/tree/master/ExpressRoute-local)
