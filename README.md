@@ -16,7 +16,7 @@ I am currently working as a Cloud Networking Specialist at Microsoft. Therefore 
   - [Sample script showing how to migrate Spoke VNET from traditional HUB/Spoke to vWAN HUB](https://github.com/dmauser/Lab/tree/master/vWAN-spoke-vnet-sample-migration-script)
   - [Azure Virtual Network Gateway IKE Logs](https://github.com/dmauser/Lab/tree/master/VPN-gateway-IKE-logs)
 - [Private Link](https://github.com/dmauser/PrivateLink)
-- [Azure Files]
+- Azure Files
   - [Network performance considerations when using Azure Files over Private Endpoint](https://github.com/dmauser/azure-files-netperf)
 - [Azure Route Server](#Azure-Route-Server)
 - Azure Firewall
