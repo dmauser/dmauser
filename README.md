@@ -2,11 +2,12 @@
 
 I am currently working as a Cloud Networking Specialist at Microsoft. Therefore you will find most of the content related to Azure Networking.
 
-### Repository Structure
+### Azure
 
 - [OPNsense NVA in Azure](https://github.com/dmauser/opnazure)
 - [Azure Site-to-Site VPN](https://github.com/dmauser/azure-vpn-s2s)
-- [ExpressRoute](https://github.com/dmauser/azure-expressroute)
+- [Azure ExpressRoute](https://github.com/dmauser/azure-expressroute)
+- [Azure Gateway Load Balancer](https://github.com/dmauser/azure-gateway-lb)
 - Azure Virtual WAN (VWAN)
   - [Multiple Virtual WANs (Prod and Dev)](https://github.com/dmauser/Lab/tree/master/vWAN-split-dev-and-prod-design)
   - [vWAN VPN Gateway Packet Capture](https://github.com/dmauser/Lab/tree/master/vWAN-vpn-gateway-packet-capture)
@@ -19,6 +20,10 @@ I am currently working as a Cloud Networking Specialist at Microsoft. Therefore 
 - Azure Firewall
   - [Using Azure Firewall to inspect traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
 - [Running DHCP Server on Azure VM](https://github.com/dmauser/DHCPServer-On-Azure)
+
+### GCP
+- [GCP base Networking Lab](https://github.com/dmauser/gcp-network-base-lab)
+- [GCP Site-to-Site VPN with Azure](https://github.com/dmauser/azure-vpn-s2s-gcp)
 
 ## Other recommended Github repos on Cloud Newtworking
 
