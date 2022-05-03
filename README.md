@@ -11,7 +11,6 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
   - [Deploying Local SKU ExpressRoute Circuits](https://github.com/dmauser/Lab/tree/master/ExpressRoute-local)
   - **LAB**: [Azure VPN/ER Coexistence using GCP as On-premises](https://github.com/dmauser/azure-er-vpn-coexistence)
   - **LAB**: [Verify BGP information on Azure VPN and ExpressRoute Gateways](https://github.com/dmauser/Lab/tree/master/ER-and-VPN-Gateway-BGP-info)
-
 - [Azure Gateway Load Balancer](https://github.com/dmauser/azure-gateway-lb)
 - Azure Virtual WAN (VWAN)
   - [Multiple Virtual WANs (Prod and Dev)](https://github.com/dmauser/Lab/tree/master/vWAN-split-dev-and-prod-design)
