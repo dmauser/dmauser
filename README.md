@@ -7,6 +7,11 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
 - [OPNsense NVA in Azure](https://github.com/dmauser/opnazure)
 - [Azure Site-to-Site VPN](https://github.com/dmauser/azure-vpn-s2s)
 - [Azure ExpressRoute](https://github.com/dmauser/azure-expressroute)
+  - [Transit between ExpressRoute circuits](https://github.com/dmauser/azure-expressroute/tree/main/er-to-er-transit) - It includes a lab.
+  - [Deploying Local SKU ExpressRoute Circuits](https://github.com/dmauser/Lab/tree/master/ExpressRoute-local)
+  - **LAB**: [Azure VPN/ER Coexistence using GCP as On-premises](https://github.com/dmauser/azure-er-vpn-coexistence)
+  - **LAB**: [Verify BGP information on Azure VPN and ExpressRoute Gateways](https://github.com/dmauser/Lab/tree/master/ER-and-VPN-Gateway-BGP-info)
+
 - [Azure Gateway Load Balancer](https://github.com/dmauser/azure-gateway-lb)
 - Azure Virtual WAN (VWAN)
   - [Multiple Virtual WANs (Prod and Dev)](https://github.com/dmauser/Lab/tree/master/vWAN-split-dev-and-prod-design)
