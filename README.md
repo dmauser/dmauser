@@ -1,6 +1,6 @@
 ### Introduction
 
-I am currently working as a Cloud Networking Specialist at Microsoft. Therefore you will find most of the content related to Azure Networking.
+I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore you will find most of the content related to Azure Networking.
 
 ### Azure
 
@@ -12,6 +12,9 @@ I am currently working as a Cloud Networking Specialist at Microsoft. Therefore 
   - [Multiple Virtual WANs (Prod and Dev)](https://github.com/dmauser/Lab/tree/master/vWAN-split-dev-and-prod-design)
   - [vWAN VPN Gateway Packet Capture](https://github.com/dmauser/Lab/tree/master/vWAN-vpn-gateway-packet-capture)
   - [Sample script showing how to migrate Spoke VNET from traditional HUB/Spoke to vWAN HUB](https://github.com/dmauser/Lab/tree/master/vWAN-spoke-vnet-sample-migration-script)
+  - [Lab: Virtual WAN with Isolated VNETs using custom route tables](https://github.com/dmauser/azure-virtualwan/tree/main/nva-spoke-internet)
+  - [Lab: Azure Virtual WAN using NVA on Spoke for Internet](https://github.com/dmauser/azure-virtualwan/tree/main/nva-spoke-internet)
+  - [Script to dump all vHUBs effective routes](https://github.com/dmauser/azure-virtualwan/tree/main/misc-cheatsheet#script-to-dump-all-vhubs-effective-routes)
   - [Azure Virtual Network Gateway IKE Logs](https://github.com/dmauser/Lab/tree/master/VPN-gateway-IKE-logs)
 - [Private Link](https://github.com/dmauser/PrivateLink)
 - Azure Files
