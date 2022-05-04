@@ -4,7 +4,7 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
 
 ### Azure
 
-- **[OPNsense NVA in Azure](https://github.com/dmauser/opnazure)**
+- [OPNsense NVA in Azure](https://github.com/dmauser/opnazure)
 
 - [Azure Site-to-Site VPN](https://github.com/dmauser/azure-vpn-s2s)
 
