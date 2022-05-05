@@ -57,7 +57,7 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
   - [Using Azure Firewall to inspect traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
 - [Running DHCP Server on Azure VM](https://github.com/dmauser/DHCPServer-On-Azure)
 
-- [Random Scripts @ my Github Gist](https://gist.github.com/dmauser)
+- [Random_Scripts@GitHubGist](https://gist.github.com/dmauser)
 
 ### GCP
 - [GCP base Networking Lab](https://github.com/dmauser/gcp-network-base-lab)
