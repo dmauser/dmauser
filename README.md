@@ -7,13 +7,13 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
 - [OPNsense NVA in Azure](https://github.com/dmauser/opnazure)
 
 - [Azure Site-to-Site VPN](https://github.com/dmauser/azure-vpn-s2s)
- - [Verify BGP information on Azure VPN and ExpressRoute Gateways](https://github.com/dmauser/Lab/tree/master/ER-and-VPN-Gateway-BGP-info)
- - [Troubleshooting IPSec by using IKE Logs](https://github.com/dmauser/Lab/tree/master/VPN-gateway-IKE-logs)
- - [Site-to-Site VPN between Azure and GCP (static routing)](https://github.com/dmauser/azure-vpn-s2s-gcp)
- - [LAB: NAT on Azure VPN Gateway](https://github.com/dmauser/azure-vpn-s2s-nat) 
- - [LAB: Transit between ExpressRoute and Azure S2S VPN using Route Server](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit)
- - [LAB: Using Azure Firewall to inspect traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
- - [Powershell script: Azure Virtual Network Gateway Packet Capture](https://github.com/dmauser/Lab/tree/master/VPN-gateway-packet-capture) 
+  - [Verify BGP information on Azure VPN and ExpressRoute Gateways](https://github.com/dmauser/Lab/tree/master/ER-and-VPN-Gateway-BGP-info)
+  - [Troubleshooting IPSec by using IKE Logs](https://github.com/dmauser/Lab/tree/master/VPN-gateway-IKE-logs)
+  - [Site-to-Site VPN between Azure and GCP (static routing)](https://github.com/dmauser/azure-vpn-s2s-gcp)
+  - [LAB: NAT on Azure VPN Gateway](https://github.com/dmauser/azure-vpn-s2s-nat) 
+  - [LAB: Transit between ExpressRoute and Azure S2S VPN using Route Server](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit)
+  - [LAB: Using Azure Firewall to inspect traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
+  - [Powershell script: Azure Virtual Network Gateway Packet Capture](https://github.com/dmauser/Lab/tree/master/VPN-gateway-packet-capture) 
 
 - [Azure ExpressRoute](https://github.com/dmauser/azure-expressroute)
   - [Transit between ExpressRoute circuits](https://github.com/dmauser/azure-expressroute/tree/main/er-to-er-transit) - It includes a lab.
