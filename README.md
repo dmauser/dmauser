@@ -33,6 +33,14 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
   - [Azure Virtual Network Gateway IKE Logs](https://github.com/dmauser/Lab/tree/master/VPN-gateway-IKE-logs)
 
 - [Private Link](https://github.com/dmauser/PrivateLink)
+   - [Private Endpoint DNS Integration Scenarios](https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios)
+   - [Known Issue: Azure Customers are unable to access each other PaaS Resources when both sides are exposed to PrivateLink/Endpoint](https://github.com/dmauser/PrivateLink/tree/master/Issue-Customer-Unable-to-Access-PaaS-AfterPrivateLink)
+   - [DNS Client Configuration Options for Private Endpoints](https://github.com/dmauser/PrivateLink/tree/master/DNS-Client-Configuration-Options)
+   - [Private Endpoint DNS integration using Active Directory](https://github.com/dmauser/PrivateLink/tree/master/DNS-Scenario-Using-AD)
+   - [Private Endpoint DNS integration over Point to Site VPN connection](https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-P2S)
+   - [Using Private Link Service for On-premises workloads](https://github.com/dmauser/PrivateLink/tree/master/PLS-for-Onprem-workloads)
+     - [LAB: Using Private Link Service to publish On-premises workloads by using HAProxy](https://github.com/dmauser/Lab/tree/master/PLS-for-onprem-workloads-haproxy)
+   - [Network performance considerations when using Azure Files over Private Endpoint](https://github.com/dmauser/azure-files-netperf)
 
 - Azure Files
   - [Network performance considerations when using Azure Files over Private Endpoint](https://github.com/dmauser/azure-files-netperf)
