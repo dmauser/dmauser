@@ -16,10 +16,11 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
   - [Powershell script: Azure Virtual Network Gateway Packet Capture](https://github.com/dmauser/Lab/tree/master/VPN-gateway-packet-capture) 
 
 - [Azure ExpressRoute](https://github.com/dmauser/azure-expressroute)
-  - [Transit between ExpressRoute circuits](https://github.com/dmauser/azure-expressroute/tree/main/er-to-er-transit) - It includes a lab.
+  - [Transit between ExpressRoute circuits](https://github.com/dmauser/azure-expressroute/tree/main/er-to-er-transit)
+    - [LAB: Transit between ExpressRoute circuits using NVAs/ARS (reverse hairpin)](https://github.com/dmauser/azure-expressroute/tree/main/er-to-er-transit/ars/lab) 
   - [Deploying Local SKU ExpressRoute Circuits](https://github.com/dmauser/Lab/tree/master/ExpressRoute-local)
-  - **LAB**: [Azure VPN/ER Coexistence using GCP as On-premises](https://github.com/dmauser/azure-er-vpn-coexistence)
-  - **LAB**: [Verify BGP information on Azure VPN and ExpressRoute Gateways](https://github.com/dmauser/Lab/tree/master/ER-and-VPN-Gateway-BGP-info)
+  - [LAB: Azure VPN/ER Coexistence using GCP as On-premises](https://github.com/dmauser/azure-er-vpn-coexistence)
+  - [LAB: Verify BGP information on Azure VPN and ExpressRoute Gateways](https://github.com/dmauser/Lab/tree/master/ER-and-VPN-Gateway-BGP-info)
 
 - [Azure Gateway Load Balancer](https://github.com/dmauser/azure-gateway-lb)
 
@@ -48,6 +49,7 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
    - [Forced Tunneling of Internet traffic through Active-Active OPNsense Firewalls using Azure Route Server (ExpressRoute)](https://github.com/dmauser/Lab/tree/master/RS-AA-OPNsense-ForceTunnel-ER)
    - [Transit between ExpressRoute and Azure S2S VPN using Route Server](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit)
    - [Using Azure Firewall to inspect traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
+   - [LAB: Transit between ExpressRoute circuits using NVAs/ARS (reverse hairpin)](https://github.com/dmauser/azure-expressroute/tree/main/er-to-er-transit/ars/lab)
 - Azure Firewall
   - [Using Azure Firewall to inspect traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
 - [Running DHCP Server on Azure VM](https://github.com/dmauser/DHCPServer-On-Azure)
