@@ -4,7 +4,9 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
 
 ### Azure
 
-- [OPNsense NVA in Azure](https://github.com/dmauser/opnazure)
+- NVAs in Azure
+   - [OPNsense NVA Firewall in Azure](https://github.com/dmauser/opnazure)
+   - [Deploy Linux or Windows VM as routers (IPv4/IPv6/NAT2Internet)](https://github.com/dmauser/AzureVM-Router)
 
 - [Azure Site-to-Site VPN](https://github.com/dmauser/azure-vpn-s2s)
   - [Verify BGP information on Azure VPN and ExpressRoute Gateways](https://github.com/dmauser/Lab/tree/master/ER-and-VPN-Gateway-BGP-info)
@@ -54,6 +56,8 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
 - Azure Firewall
   - [Using Azure Firewall to inspect traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
 - [Running DHCP Server on Azure VM](https://github.com/dmauser/DHCPServer-On-Azure)
+
+- [Random Scripts @ my Github Gist](https://gist.github.com/dmauser)
 
 ### GCP
 - [GCP base Networking Lab](https://github.com/dmauser/gcp-network-base-lab)
