@@ -31,7 +31,7 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
   - [Multiple Virtual WANs (Prod and Dev)](https://github.com/dmauser/Lab/tree/master/vWAN-split-dev-and-prod-design)
   - [vWAN VPN Gateway Packet Capture](https://github.com/dmauser/Lab/tree/master/vWAN-vpn-gateway-packet-capture)
   - [Sample script showing how to migrate Spoke VNET from traditional HUB/Spoke to vWAN HUB](https://github.com/dmauser/Lab/tree/master/vWAN-spoke-vnet-sample-migration-script)
-  - [LAB: Virtual WAN with Isolated VNETs using custom route tables](https://github.com/dmauser/azure-virtualwan/tree/main/nva-spoke-internet)
+  - [LAB: Virtual WAN with Isolated VNETs using custom route tables](https://github.com/dmauser/azure-virtualwan/tree/main/isolate-vnets-custom)
   - [LAB: Azure Virtual WAN using NVA on Spoke for Internet](https://github.com/dmauser/azure-virtualwan/tree/main/nva-spoke-internet)
   - [Script to dump all vHUBs effective routes](https://github.com/dmauser/azure-virtualwan/tree/main/misc-cheatsheet#script-to-dump-all-vhubs-effective-routes)
   - [Azure Virtual Network Gateway IKE Logs](https://github.com/dmauser/Lab/tree/master/VPN-gateway-IKE-logs)
