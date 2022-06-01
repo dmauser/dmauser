@@ -76,3 +76,8 @@ Recommended GitHub repos to check out with relevant Azure Networking content:
 - https://github.com/fguerri
 - https://github.com/hsze
 - https://github.com/mddazure
+
+<h2>⭐ GitHub Stats</h2>
+
+[![Mauser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmauser&show_icons=true)](https://github.com/dmauser)
+
