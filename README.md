@@ -27,14 +27,17 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
 
 - [Azure Gateway Load Balancer](https://github.com/dmauser/azure-gateway-lb)
 
-- Azure Virtual WAN (VWAN)
+- [Azure Virtual WAN (VWAN)](https://github.com/dmauser/azure-virtualwan)
   - [Multiple Virtual WANs (Prod and Dev)](https://github.com/dmauser/Lab/tree/master/vWAN-split-dev-and-prod-design)
   - [vWAN VPN Gateway Packet Capture](https://github.com/dmauser/Lab/tree/master/vWAN-vpn-gateway-packet-capture)
   - [Sample script showing how to migrate Spoke VNET from traditional HUB/Spoke to vWAN HUB](https://github.com/dmauser/Lab/tree/master/vWAN-spoke-vnet-sample-migration-script)
-  - [LAB: Virtual WAN with Isolated VNETs using custom route tables](https://github.com/dmauser/azure-virtualwan/tree/main/isolate-vnets-custom)
-  - [LAB: Azure Virtual WAN using NVA on Spoke for Internet](https://github.com/dmauser/azure-virtualwan/tree/main/nva-spoke-internet)
-  - [Script to dump all vHUBs effective routes](https://github.com/dmauser/azure-virtualwan/tree/main/misc-cheatsheet#script-to-dump-all-vhubs-effective-routes)
   - [Azure Virtual Network Gateway IKE Logs](https://github.com/dmauser/Lab/tree/master/VPN-gateway-IKE-logs)
+  - [LAB: Virtual WAN scenario: any-to-any](https://github.com/dmauser/azure-virtualwan/tree/main/any-to-any)
+  - [LAB: Virtual WAN scenario: Route traffic through an Azure Firewall spoke](https://github.com/dmauser/azure-virtualwan/tree/main/inter-region-azfw)
+  - [LAB: Virtual WAN scenario: Route traffic through an NVA spoke](https://github.com/dmauser/azure-virtualwan/tree/main/inter-region-nva)
+  - [LAB: Virtual WAN scenario: Isolated VNETs using custom route tables](https://github.com/dmauser/azure-virtualwan/tree/main/isolate-vnets-custom)
+  - [LAB: Azure Virtual WAN scenario: using NVA on Spoke for Internet](https://github.com/dmauser/azure-virtualwan/tree/main/nva-spoke-internet)
+  - [Script to dump all vHUBs effective routes](https://github.com/dmauser/azure-virtualwan/tree/main/misc-cheatsheet#script-to-dump-all-vhubs-effective-routes)
 
 - [Private Link](https://github.com/dmauser/PrivateLink)
    - [Private Endpoint DNS Integration Scenarios](https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios)
