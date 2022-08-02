@@ -35,9 +35,11 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
   - [LAB: Virtual WAN scenario: any-to-any](https://github.com/dmauser/azure-virtualwan/tree/main/any-to-any)
   - [LAB: Virtual WAN scenario: Route traffic through an Azure Firewall spoke](https://github.com/dmauser/azure-virtualwan/tree/main/inter-region-azfw)
   - [LAB: Virtual WAN scenario: Route traffic through an NVA spoke](https://github.com/dmauser/azure-virtualwan/tree/main/inter-region-nva)
+  - [Lab: Virtual WAN scenario: Route traffic through an NVA spoke using BGP Peering](https://github.com/dmauser/azure-virtualwan/tree/main/inter-region-nvabgp)
   - [LAB: Virtual WAN scenario: Isolated VNETs using custom route tables](https://github.com/dmauser/azure-virtualwan/tree/main/isolate-vnets-custom)
   - [LAB: Azure Virtual WAN scenario: using NVA on Spoke for Internet](https://github.com/dmauser/azure-virtualwan/tree/main/nva-spoke-internet)
   - [Script to dump all vHUBs effective routes](https://github.com/dmauser/azure-virtualwan/tree/main/misc-cheatsheet#script-to-dump-all-vhubs-effective-routes)
+  
 
 - [Private Link](https://github.com/dmauser/PrivateLink)
    - [Private Endpoint DNS Integration Scenarios](https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios)
