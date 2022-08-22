@@ -35,10 +35,11 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
   - [LAB: Virtual WAN scenario: any-to-any](https://github.com/dmauser/azure-virtualwan/tree/main/any-to-any)
   - [LAB: Virtual WAN scenario: Route traffic through an Azure Firewall spoke](https://github.com/dmauser/azure-virtualwan/tree/main/inter-region-azfw)
   - [LAB: Virtual WAN scenario: Route traffic through an NVA spoke](https://github.com/dmauser/azure-virtualwan/tree/main/inter-region-nva)
-  - [Lab: Virtual WAN scenario: Route traffic through an NVA spoke using BGP Peering](https://github.com/dmauser/azure-virtualwan/tree/main/inter-region-nvabgp)
+  - [LAB: Virtual WAN scenario: Route traffic through an NVA spoke using BGP Peering](https://github.com/dmauser/azure-virtualwan/tree/main/inter-region-nvabgp)
   - [LAB: Virtual WAN scenario: Isolated VNETs using custom route tables](https://github.com/dmauser/azure-virtualwan/tree/main/isolate-vnets-custom)
   - [LAB: Azure Virtual WAN scenario: using NVA on Spoke for Internet](https://github.com/dmauser/azure-virtualwan/tree/main/nva-spoke-internet)
   - [Script to dump all vHUBs effective routes](https://github.com/dmauser/azure-virtualwan/tree/main/misc-cheatsheet#script-to-dump-all-vhubs-effective-routes)
+  - [LAB: Secured Virtual Hubs and Routing Intent (Intra-Region)](https://github.com/dmauser/azure-virtualwan/tree/main/nva-spoke-internet)
   
 
 - [Private Link](https://github.com/dmauser/PrivateLink)
@@ -58,8 +59,12 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
    - [Transit between ExpressRoute and Azure S2S VPN using Route Server](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit)
    - [Using Azure Firewall to inspect traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
    - [LAB: Transit between ExpressRoute circuits using NVAs/ARS (reverse hairpin)](https://github.com/dmauser/azure-expressroute/tree/main/er-to-er-transit/ars/lab)
+
 - Azure Firewall
-  - [Using Azure Firewall to inspect traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
+  - [LAB: Using Azure Firewall to inspect traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
+  - [LAB: Virtual WAN scenario: Route traffic through an Azure Firewall spoke](https://github.com/dmauser/azure-virtualwan/tree/main/inter-region-azfw)
+  - [LAB: Secured Virtual Hubs and Routing Intent (Intra-Region)](https://github.com/dmauser/azure-virtualwan/tree/main/nva-spoke-internet)
+
 - [Running DHCP Server on Azure VM](https://github.com/dmauser/DHCPServer-On-Azure)
 
 - [Random_Scripts@GitHubGist](https://gist.github.com/dmauser)
