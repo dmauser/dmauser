@@ -64,6 +64,9 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
   - [LAB: Using Azure Firewall to inspect traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
   - [LAB: Virtual WAN scenario: Route traffic through an Azure Firewall spoke](https://github.com/dmauser/azure-virtualwan/tree/main/inter-region-azfw)
   - [LAB: Secured Virtual Hubs and Routing Intent (Intra-Region)](https://github.com/dmauser/azure-virtualwan/tree/main/nva-spoke-internet)
+  
+- [Azure DNS Private Resolver](https://github.com/dmauser/azure-dns-private-resolver)
+  - [Lab: Azure DNS Private Resolver (Hub and spoke)](https://github.com/dmauser/azure-dns-private-resolver/tree/main/adr-lab)
 
 - [Running DHCP Server on Azure VM](https://github.com/dmauser/DHCPServer-On-Azure)
 
