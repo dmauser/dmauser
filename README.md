@@ -66,7 +66,7 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
   - [LAB: Secured Virtual Hubs and Routing Intent (Intra-Region)](https://github.com/dmauser/azure-virtualwan/tree/main/nva-spoke-internet)
   
 - [Azure DNS Private Resolver](https://github.com/dmauser/azure-dns-private-resolver)
-  - [Lab: Azure DNS Private Resolver (Hub and spoke)](https://github.com/dmauser/azure-dns-private-resolver/tree/main/adr-lab)
+  - [Lab: Azure DNS Private Resolver (Hub and Spoke)](https://github.com/dmauser/azure-dns-private-resolver/tree/main/adr-lab)
 
 - [Running DHCP Server on Azure VM](https://github.com/dmauser/DHCPServer-On-Azure)
 
