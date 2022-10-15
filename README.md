@@ -8,6 +8,9 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
    - [OPNsense NVA Firewall in Azure](https://github.com/dmauser/opnazure)
    - [Deploy Linux or Windows VM as routers (IPv4/IPv6/NAT2Internet)](https://github.com/dmauser/AzureVM-Router)
 
+- Azure VMWare Solution (AVS)
+   - [LAB: AVS (ER) to On-prem (ER) transit using Secured-vHub+Routing Intent](https://github.com/dmauser/azure-vmware-solution)
+
 - [Azure Site-to-Site VPN](https://github.com/dmauser/azure-vpn-s2s)
   - [Verify BGP information on Azure VPN and ExpressRoute Gateways](https://github.com/dmauser/Lab/tree/master/ER-and-VPN-Gateway-BGP-info)
   - [Troubleshooting IPSec by using IKE Logs](https://github.com/dmauser/Lab/tree/master/VPN-gateway-IKE-logs)
@@ -40,8 +43,8 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
   - [LAB: Azure Virtual WAN scenario: using NVA on Spoke for Internet](https://github.com/dmauser/azure-virtualwan/tree/main/nva-spoke-internet)
   - [Script to dump all vHUBs effective routes](https://github.com/dmauser/azure-virtualwan/tree/main/misc-cheatsheet#script-to-dump-all-vhubs-effective-routes)
   - [LAB: Secured Virtual Hubs and Routing Intent (Intra-Region)](https://github.com/dmauser/azure-virtualwan/tree/main/svh-ri-intra-region)
+  - [LAB: Secured Virtual Hubs Inter-region via ExpressRoute](https://github.com/dmauser/azure-virtualwan/tree/main/svh-inter-region-er)
   
-
 - [Private Link](https://github.com/dmauser/PrivateLink)
    - [Private Endpoint DNS Integration Scenarios](https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios)
    - [Known Issue: Azure Customers are unable to access each other PaaS Resources when both sides are exposed to PrivateLink/Endpoint](https://github.com/dmauser/PrivateLink/tree/master/Issue-Customer-Unable-to-Access-PaaS-AfterPrivateLink)
@@ -64,6 +67,7 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
   - [LAB: Using Azure Firewall to inspect traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
   - [LAB: Virtual WAN scenario: Route traffic through an Azure Firewall spoke](https://github.com/dmauser/azure-virtualwan/tree/main/inter-region-azfw)
   - [LAB: Secured Virtual Hubs and Routing Intent (Intra-Region)](https://github.com/dmauser/azure-virtualwan/tree/main/nva-spoke-internet)
+  - [LAB: Secured Virtual Hubs Inter-region via ExpressRoute](https://github.com/dmauser/azure-virtualwan/tree/main/svh-inter-region-er)
   
 - [Azure DNS Private Resolver](https://github.com/dmauser/azure-dns-private-resolver)
   - [Lab: Azure DNS Private Resolver (Hub and Spoke)](https://github.com/dmauser/azure-dns-private-resolver/tree/main/adr-lab)
