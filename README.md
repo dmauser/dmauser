@@ -87,6 +87,7 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
 
 Recommended GitHub repos to check out with relevant Azure Networking content:
 
+- https://github.com/fabferri
 - https://github.com/paolosalvatori
 - https://github.com/jocortems
 - https://github.com/erjosito
