@@ -46,6 +46,7 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
   - [LAB: Secured Virtual Hubs Inter-region via ExpressRoute](https://github.com/dmauser/azure-virtualwan/tree/main/svh-inter-region-er)
   - [LAB: Virtual WAN Scenario: IPsec VPN over ER](https://github.com/dmauser/azure-virtualwan/tree/main/vpn-over-er)
   - [LAB: Virtual WAN Scenario: IPsec VPN with NAT over ER](https://github.com/dmauser/azure-virtualwan/tree/main/natvpn-over-er)
+  - [LAB: Virtual WAN and forced tunneling over ExpressRoute](https://github.com/dmauser/azure-virtualwan/tree/main/ft-wan)
   
 - [Private Link](https://github.com/dmauser/PrivateLink)
    - [Private Endpoint DNS Integration Scenarios](https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios)
