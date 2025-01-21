@@ -9,7 +9,7 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
    - [Deploy Linux or Windows VM as routers (IPv4/IPv6/NAT2Internet)](https://github.com/dmauser/AzureVM-Router)
 
 - Azure Virtual Network
-   - [LAB:Azure Virtual Network Encryption](https://github.com/dmauser/azure-vnet-encryption)
+   - [LAB: Azure Virtual Network Encryption](https://github.com/dmauser/azure-vnet-encryption)
 
 - Azure VMWare Solution (AVS)
    - [LAB: AVS (ER) to On-prem (ER) transit using Secured-vHub+Routing Intent](https://github.com/dmauser/azure-vmware-solution)
