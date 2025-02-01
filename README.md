@@ -22,7 +22,6 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
   - [LAB: Transit between ExpressRoute and Azure S2S VPN using Route Server](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit)
   - [LAB: Using Azure Firewall to inspect traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
   - [Powershell script: Azure Virtual Network Gateway Packet Capture](https://github.com/dmauser/Lab/tree/master/VPN-gateway-packet-capture) 
-  - [LAB: GCP Site-to-Site VPN with Azure](https://github.com/dmauser/azure-vpn-s2s-gcp)
 
 - [Azure ExpressRoute](https://github.com/dmauser/azure-expressroute)
   - [Transit between ExpressRoute circuits](https://github.com/dmauser/azure-expressroute/tree/main/er-to-er-transit)
