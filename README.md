@@ -8,6 +8,9 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
    - [OPNsense NVA Firewall in Azure](https://github.com/dmauser/opnazure)
    - [Deploy Linux or Windows VM as routers (IPv4/IPv6/NAT2Internet)](https://github.com/dmauser/AzureVM-Router)
 
+- Azure Front Door
+  - [LAB: Azure Front Door and Private Link Service](https://github.com/dmauser/azure-frontdoor-pls)
+
 - Azure Virtual Network
    - [LAB: Azure Virtual Network Encryption](https://github.com/dmauser/azure-vnet-encryption)
 
