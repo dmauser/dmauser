@@ -36,6 +36,7 @@ I am currently working as a Cloud Networking Specialist @ Microsoft. Therefore y
 - [Azure Gateway Load Balancer](https://github.com/dmauser/azure-gateway-lb)
 
 - [Azure Virtual WAN (VWAN)](https://github.com/dmauser/azure-virtualwan)
+  - [LAB: Validating Virtual WAN Next Hop IP Feature](https://github.com/dmauser/azure-virtualwan-nexthop)
   - [Multiple Virtual WANs (Prod and Dev)](https://github.com/dmauser/Lab/tree/master/vWAN-split-dev-and-prod-design)
   - [vWAN VPN Gateway Packet Capture](https://github.com/dmauser/Lab/tree/master/vWAN-vpn-gateway-packet-capture)
   - [Sample script showing how to migrate Spoke VNET from traditional HUB/Spoke to vWAN HUB](https://github.com/dmauser/Lab/tree/master/vWAN-spoke-vnet-sample-migration-script)
