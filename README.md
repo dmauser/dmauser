@@ -7,10 +7,6 @@ Cloud Networking Specialist at Microsoft. Most content here is focused on **Azur
 :octocat: [GitHub](https://github.com/dmauser/dmauser)
 :briefcase: [LinkedIn](https://www.linkedin.com/in/danielmauser/)
 
-### 🧮 GitHub Statistics
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dmauser&show_icons=true)
-
 ### 📖 Recent Labs and Samples
 
 - [OPNsense NVA Firewall in Azure](https://github.com/dmauser/opnazure) *(Last updated: Mar 2026)*
@@ -148,3 +144,7 @@ Community repositories with great Azure Networking content:
 | [@mddazure](https://github.com/mddazure) | https://github.com/mddazure |
 
 ---
+
+### 🧮 GitHub Statistics
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dmauser&show_icons=true)
