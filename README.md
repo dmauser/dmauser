@@ -1,35 +1,17 @@
-### Introduction
+### 🌐 Daniel Mauser
 
 Cloud Networking Specialist at Microsoft. Most content here is focused on **Azure Networking** — labs, scripts, and reference implementations covering VPN, ExpressRoute, Virtual WAN, Private Link, NVAs, and more.
 
----
+### 📫 Contacts
 
-## Table of Contents
+:octocat: [GitHub](https://github.com/dmauser/dmauser)
+:briefcase: [LinkedIn](https://www.linkedin.com/in/danielmauser/)
 
-- [Azure](#azure)
-  - [NVAs in Azure](#nvas-in-azure)
-  - [Azure Front Door](#azure-front-door)
-  - [Azure Virtual Network](#azure-virtual-network)
-  - [Azure VMware Solution (AVS)](#azure-vmware-solution-avs)
-  - [Azure Site-to-Site VPN](#azure-site-to-site-vpn)
-  - [Azure ExpressRoute](#azure-expressroute)
-  - [Azure Gateway Load Balancer](#azure-gateway-load-balancer)
-  - [Azure Virtual WAN (VWAN)](#azure-virtual-wan-vwan)
-  - [Private Link](#private-link)
-  - [Azure Files](#azure-files)
-  - [Azure Route Server](#azure-route-server)
-  - [Azure Firewall](#azure-firewall)
-  - [Azure DNS Private Resolver](#azure-dns-private-resolver)
-  - [Running DHCP Server on Azure](#running-dhcp-server-on-azure)
-  - [Random Scripts](#random-scripts)
-- [GCP](#gcp)
-- [Other Recommended Repos](#other-recommended-github-repos-on-cloud-networking)
+### 🧮 GitHub Statistics
 
----
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dmauser&show_icons=true)
 
-### Azure
-
-#### NVAs in Azure
+### 📖 Recent Labs and Samples
 
 - [OPNsense NVA Firewall in Azure](https://github.com/dmauser/opnazure) *(Last updated: Mar 2026)*
 - [Deploy Linux or Windows VM as Routers (IPv4/IPv6/NAT)](https://github.com/dmauser/AzureVM-Router) *(Last updated: Jan 2026)*
