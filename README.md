@@ -2,11 +2,6 @@
 
 Cloud Networking Specialist at Microsoft. Most content here is focused on **Azure Networking** — labs, scripts, and reference implementations covering VPN, ExpressRoute, Virtual WAN, Private Link, NVAs, and more.
 
-### 📫 Contacts
-
-:octocat: [GitHub](https://github.com/dmauser/dmauser)
-:briefcase: [LinkedIn](https://www.linkedin.com/in/danielmauser/)
-
 ### 📖 Recent Labs and Samples
 
 - [OPNsense NVA Firewall in Azure](https://github.com/dmauser/opnazure) *(Last updated: Mar 2026)*
