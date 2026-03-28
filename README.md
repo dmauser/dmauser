@@ -105,6 +105,10 @@ Cloud Networking Specialist at Microsoft. Most content here is focused on **Azur
 - [Azure DNS Private Resolver](https://github.com/dmauser/azure-dns-private-resolver) *(Last updated: Jan 2026)*
   - [LAB: Azure DNS Private Resolver — Hub and Spoke](https://github.com/dmauser/azure-dns-private-resolver/tree/main/adr-lab)
 
+#### Azure DNS Security Policy
+
+- [LAB: Azure DNS Security Policy](https://github.com/dmauser/AzDnsSecurityPolicyLab) *(Last updated: Mar 2026)*
+
 #### Running DHCP Server on Azure
 
 - [Running DHCP Server on Azure VM](https://github.com/dmauser/DHCPServer-On-Azure) *(Last updated: May 2024)*
