@@ -30,6 +30,7 @@ can deploy, break, and learn from real Azure topologies.
 - [Featured](#featured)
 - [Tools & Extensions](#tools--extensions)
 - [Hybrid Connectivity (VPN & ExpressRoute)](#hybrid-connectivity-vpn--expressroute)
+- [Hub & Spoke Architecture](#hub--spoke-architecture)
 - [Virtual WAN](#virtual-wan)
 - [Routing, Route Server & NVAs](#routing-route-server--nvas)
 - [Private Link & DNS](#private-link--dns)
@@ -80,6 +81,32 @@ can deploy, break, and learn from real Azure topologies.
   - [Deploying Local SKU ExpressRoute Circuits](https://github.com/dmauser/Lab/tree/master/ExpressRoute-local)
   - [LAB: Azure VPN/ER Coexistence using GCP as On-premises](https://github.com/dmauser/azure-er-vpn-coexistence) *(Last updated: Apr 2024)*
   - [LAB: Verify BGP Information on Azure VPN and ExpressRoute Gateways](https://github.com/dmauser/Lab/tree/master/ER-and-VPN-Gateway-BGP-info)
+
+---
+
+## Hub & Spoke Architecture
+
+<details>
+<summary><b>Azure Hub and Spoke — labs & scripts</b> <i>(ExpressRoute, VPN Gateway, Azure Route Server & NVAs such as OPNsense)</i></summary>
+
+- [Azure Hub and Spoke](https://github.com/dmauser/azure-hub-spoke) — Labs and articles for Hub and Spoke network architecture on Azure, each focused on a specific connectivity or routing scenario
+  - [LAB: ExpressRoute Hub Transit](https://github.com/dmauser/azure-hub-spoke/blob/main/er-hub-transit) — ExpressRoute-based transit between two hub and spoke environments (Hub1 and Hub2)
+  - [LAB: ExpressRoute Migration](https://github.com/dmauser/azure-hub-spoke/blob/main/er-migration) — Migration scenario with on-premises (emulated in GCP) connected to Azure via ExpressRoute and Azure Route Server
+  - [LAB: Hub with DMZ Firewall (OPNsense)](https://github.com/dmauser/azure-hub-spoke/blob/main/hub-dmz-fw) — Dedicated DMZ VNET with OPNsense NVA inspecting traffic between spokes and on-premises
+  - [LAB: Hub ER+VPN Transit with OPNsense](https://github.com/dmauser/azure-hub-spoke/blob/main/hub-ervpn-transit-opn) — ExpressRoute and VPN gateways with transit, plus Azure Route Server Branch-to-Branch
+  - [LAB: Hub and Spoke with ExpressRoute Gateway Scaling](https://github.com/dmauser/azure-hub-spoke/blob/main/hubspk-ergwscale) — Impact of gateway SKU and scaling settings on throughput and routing
+  - [LAB: Hub and Spoke with On-Premises via ExpressRoute (Azure)](https://github.com/dmauser/azure-hub-spoke/blob/main/hubspk-onprem-er-azure) — On-premises emulated inside Azure with a separate VNET and ExpressRoute gateway
+  - [LAB: Hub and Spoke with On-Premises via ExpressRoute (GCP)](https://github.com/dmauser/azure-hub-spoke/blob/main/hubspk-onprem-er-gcp) — Cross-cloud connectivity to on-premises emulated in GCP via ExpressRoute partner interconnects
+  - [LAB: ExpressRoute MSEE Hairpin](https://github.com/dmauser/azure-hub-spoke/blob/main/msee-hairpin) — Tests MSEE hairpin behavior over ExpressRoute (intra-region and inter-region)
+  - [LAB: Multi-Region ExpressRoute with Azure Route Server](https://github.com/dmauser/azure-hub-spoke/blob/main/multi-region-er-ars) — Hub and spoke in two regions (East US 2 and Central US) connected via ExpressRoute with ARS
+  - [LAB: SD-WAN with Traffic Inspection](https://github.com/dmauser/azure-hub-spoke/blob/main/sd-wan-inspection) — OPNsense as SD-WAN NVA with branch traffic inspected by a next-hop firewall load balancer
+  - [LAB: Single Region VPN + ExpressRoute Coexistence](https://github.com/dmauser/azure-hub-spoke/blob/main/single-region-vpn-er) — VPN and ExpressRoute gateways coexisting in a single region with failover testing
+  - [LAB: Vendor VNET with Azure Route Server](https://github.com/dmauser/azure-hub-spoke/blob/main/vendor-vnet-ars) — Third-party SD-WAN vendor VNET exchanging routes with the hub via ARS using OPNsense
+  - [LAB: Third-Party VNET Integration with ExpressRoute](https://github.com/dmauser/azure-hub-spoke/blob/main/vendor-vnet-er) — Vendor VNET integration via ExpressRoute with static and BGP-based routing
+  - [LAB: VNET with Azure Route Server, ExpressRoute, and OPNsense](https://github.com/dmauser/azure-hub-spoke/blob/main/vnet-ars-er-opn) — Branch VNET using OPNsense connected to the hub via ARS and ExpressRoute
+  - [LAB: IPSec VPN over ExpressRoute (Hub and Spoke)](https://github.com/dmauser/azure-hub-spoke/blob/main/vpner-hub-spoke) — IPSec/IKE VPN tunnels over ExpressRoute private peering with ARS hub routing preference
+
+</details>
 
 ---
 
