@@ -45,6 +45,8 @@ can deploy, break, and learn from real Azure topologies.
 ## Featured
 
 - [Network Desk — GitHub Copilot CLI extension pack (20 cloud-networking specialist agents)](https://github.com/dmauser/network-desk) *(Last updated: May 2026)*
+- [Money Desk — GitHub Copilot CLI personal-finance extension pack (20 specialist agents)](https://github.com/dmauser/money-desk) *(Last updated: Jun 2026)*
+- [Compute Desk — GitHub Copilot CLI Azure IaaS VM extension pack (20 specialist agents, collaboration)](https://github.com/adtork/compute-desk) *(Last updated: Jun 2026)*
 - [OPNsense NVA Firewall in Azure](https://github.com/dmauser/opnazure) *(Last updated: Mar 2026)*
 - [Deploy Linux or Windows VM as Routers (IPv4/IPv6/NAT)](https://github.com/dmauser/AzureVM-Router) *(Last updated: Jan 2026)*
 - [LAB: Azure DNS Security Policy](https://github.com/dmauser/AzDnsSecurityPolicyLab) *(Last updated: Mar 2026)*
@@ -55,6 +57,8 @@ can deploy, break, and learn from real Azure topologies.
 ## Tools & Extensions
 
 - [Network Desk](https://github.com/dmauser/network-desk) — GitHub Copilot CLI extension pack: 20 specialist AI agents for cloud networking (Azure/AWS/GCP), firewalls (14 vendors), and report generation *(Last updated: May 2026)*
+- [Money Desk](https://github.com/dmauser/money-desk) — GitHub Copilot CLI personal-finance extension pack: 20 specialist AI agents (budget, tax, investing, retirement, debt, credit, insurance, estate, FIRE, and more). Zero deps, analysis-only, private by default *(Last updated: Jun 2026)*
+- [Compute Desk](https://github.com/adtork/compute-desk) — GitHub Copilot CLI extension pack for Azure IaaS VMs: 20 specialist AI agents covering SKU sizing, cost, performance, DR, backup, security, migration, and report generation *(collaboration)* *(Last updated: Jun 2026)*
 
 ---
 
