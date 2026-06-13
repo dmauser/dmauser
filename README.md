@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>Cloud Networking Specialist @ Microsoft</b><br>
-  Labs, scripts, and reference implementations for <b>Azure Networking</b> — VPN, ExpressRoute, Virtual WAN, Private Link, NVAs, and more.
+  Labs, scripts, and reference implementations for <b>Azure Networking</b> — VPN, ExpressRoute, Virtual WAN, Private Link, NVAs, and more.<br>
+  Building <b>GitHub Copilot CLI</b> AI agent extension packs (networking, personal finance, and Azure compute).
 </p>
 
 <p align="center">
@@ -93,7 +94,7 @@ can deploy, break, and learn from real Azure topologies.
 <details>
 <summary><b>Azure Hub and Spoke — labs & scripts</b> <i>(ExpressRoute, VPN Gateway, Azure Route Server & NVAs such as OPNsense)</i></summary>
 
-- [Azure Hub and Spoke](https://github.com/dmauser/azure-hub-spoke) — Labs and articles for Hub and Spoke network architecture on Azure, each focused on a specific connectivity or routing scenario
+- [Azure Hub and Spoke](https://github.com/dmauser/azure-hub-spoke) — Labs and articles for Hub and Spoke network architecture on Azure, each focused on a specific connectivity or routing scenario *(Last updated: Jun 2026)*
   - [LAB: ExpressRoute Hub Transit](https://github.com/dmauser/azure-hub-spoke/blob/main/er-hub-transit) — ExpressRoute-based transit between two hub and spoke environments (Hub1 and Hub2)
   - [LAB: ExpressRoute Migration](https://github.com/dmauser/azure-hub-spoke/blob/main/er-migration) — Migration scenario with on-premises (emulated in GCP) connected to Azure via ExpressRoute and Azure Route Server
   - [LAB: Hub with DMZ Firewall (OPNsense)](https://github.com/dmauser/azure-hub-spoke/blob/main/hub-dmz-fw) — Dedicated DMZ VNET with OPNsense NVA inspecting traffic between spokes and on-premises
@@ -159,7 +160,7 @@ can deploy, break, and learn from real Azure topologies.
 
 - [OPNsense NVA Firewall in Azure](https://github.com/dmauser/opnazure) *(Last updated: Mar 2026)*
 - [Deploy Linux or Windows VM as Routers (IPv4/IPv6/NAT)](https://github.com/dmauser/AzureVM-Router) *(Last updated: Jan 2026)*
-- [Azure Gateway Load Balancer](https://github.com/dmauser/azure-gateway-lb) *(Last updated: Feb 2025)*
+- [Azure Gateway Load Balancer](https://github.com/dmauser/azure-gateway-lb) *(Last updated: May 2026)*
 
 ---
 
@@ -196,7 +197,7 @@ can deploy, break, and learn from real Azure topologies.
 
 - [LAB: Azure Firewall to Inspect Traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
 - [LAB: Virtual WAN — Route Traffic Through Azure Firewall Spoke](https://github.com/dmauser/azure-virtualwan/tree/main/inter-region-azfw)
-- [LAB: Secured Virtual Hubs and Routing Intent (Intra-Region)](https://github.com/dmauser/azure-virtualwan/tree/main/nva-spoke-internet)
+- [LAB: Secured Virtual Hubs and Routing Intent (Intra-Region)](https://github.com/dmauser/azure-virtualwan/tree/main/svh-ri-intra-region)
 - [LAB: Secured Virtual Hubs Inter-region via ExpressRoute](https://github.com/dmauser/azure-virtualwan/tree/main/svh-inter-region-er)
 
 ---
