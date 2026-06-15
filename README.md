@@ -13,6 +13,14 @@
   <a href="https://gist.github.com/dmauser"><img src="https://img.shields.io/badge/GitHub-Gists-181717?logo=github&logoColor=white" alt="GitHub Gists"></a>
 </p>
 
+<p align="center">
+  <i>🆕 Jun 2026 — <a href="https://github.com/dmauser/financial-services">Financial Services</a> Copilot CLI extension pack (9 verticals + 10 specialists, ~169 tools).</i>
+</p>
+
+<p align="center">
+  <sub>Topics: Azure Networking · Hub &amp; Spoke · Virtual WAN · ExpressRoute · VPN · Private Link · DNS · NVA · Azure Firewall · GitHub Copilot CLI extensions</sub>
+</p>
+
 ---
 
 ## About
@@ -45,7 +53,8 @@ can deploy, break, and learn from real Azure topologies.
 
 ## Featured
 
-- [Network Desk — GitHub Copilot CLI extension pack (20 cloud-networking specialist agents)](https://github.com/dmauser/network-desk) *(Last updated: May 2026)*
+- [Financial Services — GitHub Copilot CLI extension pack (9 verticals + 10 specialists, ~169 tools)](https://github.com/dmauser/financial-services) *(Last updated: Jun 2026)*
+- [Network Desk — GitHub Copilot CLI extension pack (20 cloud-networking specialist agents)](https://github.com/dmauser/network-desk) *(Last updated: Jun 2026)*
 - [Money Desk — GitHub Copilot CLI personal-finance extension pack (20 specialist agents)](https://github.com/dmauser/money-desk) *(Last updated: Jun 2026)*
 - [Compute Desk — GitHub Copilot CLI Azure IaaS VM extension pack (20 specialist agents, collaboration)](https://github.com/adtork/compute-desk) *(Last updated: Jun 2026)*
 - [OPNsense NVA Firewall in Azure](https://github.com/dmauser/opnazure) *(Last updated: Mar 2026)*
@@ -57,7 +66,8 @@ can deploy, break, and learn from real Azure topologies.
 
 ## Tools & Extensions
 
-- [Network Desk](https://github.com/dmauser/network-desk) — GitHub Copilot CLI extension pack: 20 specialist AI agents for cloud networking (Azure/AWS/GCP), firewalls (14 vendors), and report generation *(Last updated: May 2026)*
+- [Financial Services](https://github.com/dmauser/financial-services) — GitHub Copilot CLI port of the Claude for Financial Services pack: 9 verticals + 10 specialists (~169 tools) covering equity research, pitch decks, M&A, credit, ESG, and more, with 12 optional MCP data connectors (FactSet, Daloopa, LSEG, S&P Global, Moody's, Pitchbook, …) *(Last updated: Jun 2026)*
+- [Network Desk](https://github.com/dmauser/network-desk) — GitHub Copilot CLI extension pack: 20 specialist AI agents for cloud networking (Azure/AWS/GCP), firewalls (14 vendors), and report generation *(Last updated: Jun 2026)*
 - [Money Desk](https://github.com/dmauser/money-desk) — GitHub Copilot CLI personal-finance extension pack: 20 specialist AI agents (budget, tax, investing, retirement, debt, credit, insurance, estate, FIRE, and more). Zero deps, analysis-only, private by default *(Last updated: Jun 2026)*
 - [Compute Desk](https://github.com/adtork/compute-desk) — GitHub Copilot CLI extension pack for Azure IaaS VMs: 20 specialist AI agents covering SKU sizing, cost, performance, DR, backup, security, migration, and report generation *(collaboration)* *(Last updated: Jun 2026)*
 
@@ -228,7 +238,7 @@ can deploy, break, and learn from real Azure topologies.
 
 ## GCP & Multi-Cloud
 
-- [GCP Base Networking Lab](https://github.com/dmauser/gcp-network-base-lab) *(Last updated: Sep 2022)*
+- [GCP Base Networking Lab](https://github.com/dmauser/gcp-network-base-lab) *(Last updated: Jun 2026)*
 - [LAB: GCP Site-to-Site VPN with Azure](https://github.com/dmauser/azure-vpn-s2s-gcp) *(Last updated: Jan 2022)*
 
 ---
@@ -237,24 +247,24 @@ can deploy, break, and learn from real Azure topologies.
 
 Community repositories with great Azure Networking content:
 
-| GitHub | Profile |
-|--------|---------|
-| [@fabferri](https://github.com/fabferri) | https://github.com/fabferri |
-| [@paolosalvatori](https://github.com/paolosalvatori) | https://github.com/paolosalvatori |
-| [@jocortems](https://github.com/jocortems) | https://github.com/jocortems |
-| [@erjosito](https://github.com/erjosito) | https://github.com/erjosito |
-| [@adstuart](https://github.com/adstuart) | https://github.com/adstuart |
-| [@jwrightazure](https://github.com/jwrightazure) | https://github.com/jwrightazure |
-| [@jtracey93](https://github.com/jtracey93) | https://github.com/jtracey93 |
-| [@fguerri](https://github.com/fguerri) | https://github.com/fguerri |
-| [@hsze](https://github.com/hsze) | https://github.com/hsze |
-| [@mddazure](https://github.com/mddazure) | https://github.com/mddazure |
+| GitHub |
+|--------|
+| [@fabferri](https://github.com/fabferri) |
+| [@paolosalvatori](https://github.com/paolosalvatori) |
+| [@jocortems](https://github.com/jocortems) |
+| [@erjosito](https://github.com/erjosito) |
+| [@adstuart](https://github.com/adstuart) |
+| [@jwrightazure](https://github.com/jwrightazure) |
+| [@jtracey93](https://github.com/jtracey93) |
+| [@fguerri](https://github.com/fguerri) |
+| [@hsze](https://github.com/hsze) |
+| [@mddazure](https://github.com/mddazure) |
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmauser&show_icons=true&theme=default" alt="dmauser's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmauser&layout=compact&theme=default" alt="dmauser's top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=dmauser&show_icons=true&theme=transparent" alt="dmauser's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmauser&layout=compact&theme=transparent&langs_count=8&hide=html,css" alt="dmauser's top languages">
 </p>
