@@ -1,7 +1,7 @@
 <h1 align="center">🌐 Daniel Mauser</h1>
 
 <p align="center">
-  <b>Cloud Networking Specialist @ Microsoft</b><br>
+  <b>Cloud Solution Engineer @ Microsoft</b><br>
   Labs, scripts, and reference implementations for <b>Azure Networking</b> — VPN, ExpressRoute, Virtual WAN, Private Link, NVAs, and more.<br>
   Building <b>GitHub Copilot CLI</b> AI agent extension packs (networking, personal finance, and Azure compute).
 </p>
