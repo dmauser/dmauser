@@ -16,10 +16,6 @@
 </p>
 
 <p align="center">
-  <i>🆕 Jun 2026 — <a href="https://github.com/dmauser/financial-services">Financial Services</a> Copilot CLI extension pack (9 verticals + 10 specialists, ~169 tools).</i>
-</p>
-
-<p align="center">
   <sub>Topics: Azure Networking · Hub &amp; Spoke · Virtual WAN · ExpressRoute · VPN · Private Link · DNS · NVA · Azure Firewall · GitHub Copilot CLI extensions</sub>
 </p>
 
