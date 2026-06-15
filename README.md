@@ -1,7 +1,7 @@
 <h1 align="center">🌐 Daniel Mauser</h1>
 
 <p align="center">
-  <b>Cloud Solution Engineer @ Microsoft</b> · Azure Networking specialist<br>
+  <b>Cloud Infra Solution Engineer @ Microsoft</b> · Azure Networking specialist<br>
   I help enterprise customers <b>design, validate, and troubleshoot</b> hybrid &amp; cloud-native networks on Azure —<br>
   ExpressRoute, VPN, Virtual WAN, Hub &amp; Spoke, Private Link, DNS, NVAs, and Azure Firewall.<br>
   This profile is a curated index of <b>reproducible labs</b> built from real customer scenarios,<br>
