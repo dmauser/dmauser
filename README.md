@@ -5,7 +5,8 @@
   I help enterprise customers <b>design, validate, and troubleshoot</b> hybrid &amp; cloud-native networks on Azure —<br>
   ExpressRoute, VPN, Virtual WAN, Hub &amp; Spoke, Private Link, DNS, NVAs, and Azure Firewall.<br>
   This profile is a curated index of <b>reproducible labs</b> built from real customer scenarios,<br>
-  plus <b>GitHub Copilot CLI</b> AI agent extension packs (networking, finance, compute, financial services).
+  plus <b>GitHub Copilot CLI</b> AI agent extension packs (networking, finance, compute, financial services).<br>
+  Contributor to the <a href="https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog"><b>Azure Networking Blog</b></a> on Microsoft Tech Community.
 </p>
 
 <p align="center">
@@ -13,6 +14,7 @@
   <img src="https://img.shields.io/badge/Azure-Networking-0089D6?logo=microsoftazure&logoColor=white" alt="Azure Networking">
   <a href="https://www.linkedin.com/in/danmauser/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://gist.github.com/dmauser"><img src="https://img.shields.io/badge/GitHub-Gists-181717?logo=github&logoColor=white" alt="GitHub Gists"></a>
+  <a href="https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog"><img src="https://img.shields.io/badge/Tech%20Community-Azure%20Networking%20Blog-0078D4?logo=microsoft&logoColor=white" alt="Azure Networking Blog"></a>
 </p>
 
 <p align="center">
@@ -28,7 +30,7 @@ and hybrid scenarios. This profile is a curated index of hands-on **labs, sample
 implementations** I maintain across multiple repositories. Most content is reproducible end-to-end so you
 can deploy, break, and learn from real Azure topologies.
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/danmauser/) · [GitHub Gists](https://gist.github.com/dmauser)
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/danmauser/) · [GitHub Gists](https://gist.github.com/dmauser) · [Azure Networking Blog (Tech Community)](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
 
 ---
 
