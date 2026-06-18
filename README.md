@@ -82,11 +82,10 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 
 ---
 
----
-
 ## 🔗 Hybrid Connectivity (VPN & ExpressRoute)
 
-### Azure Site-to-Site VPN
+<details>
+<summary><b>Azure Site-to-Site VPN — labs & scripts</b></summary>
 
 - [Azure Site-to-Site VPN](https://github.com/dmauser/azure-vpn-s2s) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vpn-s2s?style=flat-square&label=updated&color=informational)
   - [Verify BGP Information on Azure VPN and ExpressRoute Gateways](https://github.com/dmauser/Lab/tree/master/ER-and-VPN-Gateway-BGP-info)
@@ -99,7 +98,10 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 
 > Sub-items above are part of [dmauser/Lab](https://github.com/dmauser/Lab) ![updated](https://img.shields.io/github/last-commit/dmauser/Lab?style=flat-square&label=updated&color=informational)
 
-### Azure ExpressRoute
+</details>
+
+<details>
+<summary><b>Azure ExpressRoute — labs & scripts</b></summary>
 
 - [Azure ExpressRoute](https://github.com/dmauser/azure-expressroute) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-expressroute?style=flat-square&label=updated&color=informational)
   - [Transit between ExpressRoute Circuits](https://github.com/dmauser/azure-expressroute/tree/main/er-to-er-transit)
@@ -107,6 +109,8 @@ Financial Services) and publishing reproducible Azure networking labs from real 
   - [Deploying Local SKU ExpressRoute Circuits](https://github.com/dmauser/Lab/tree/master/ExpressRoute-local)
   - [LAB: Azure VPN/ER Coexistence using GCP as On-premises](https://github.com/dmauser/azure-er-vpn-coexistence) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-er-vpn-coexistence?style=flat-square&label=updated&color=informational)
   - [LAB: Verify BGP Information on Azure VPN and ExpressRoute Gateways](https://github.com/dmauser/Lab/tree/master/ER-and-VPN-Gateway-BGP-info)
+
+</details>
 
 ---
 
@@ -168,7 +172,8 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 
 ## 🧭 Routing, Route Server & NVAs
 
-### Azure Route Server
+<details>
+<summary><b>Azure Route Server — labs & scripts</b></summary>
 
 - [Azure Route Server](https://github.com/dmauser/azure-routeserver) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-routeserver?style=flat-square&label=updated&color=informational)
   - [Forced Tunneling: Active-Active OPNsense Firewalls with Route Server (ExpressRoute)](https://github.com/dmauser/Lab/tree/master/RS-AA-OPNsense-ForceTunnel-ER)
@@ -177,11 +182,16 @@ Financial Services) and publishing reproducible Azure networking labs from real 
   - [LAB: ER-to-ER Transit using NVAs/ARS (reverse hairpin)](https://github.com/dmauser/azure-expressroute/tree/main/er-to-er-transit/ars/lab)
   - [LAB: High Available NVAs with Azure Route Server](https://github.com/dmauser/azure-routeserver/tree/main/ars-nhip)
 
-### NVAs & Load Balancing
+</details>
+
+<details>
+<summary><b>NVAs & Load Balancing — labs & scripts</b></summary>
 
 - [OPNsense NVA Firewall in Azure](https://github.com/dmauser/opnazure) ![updated](https://img.shields.io/github/last-commit/dmauser/opnazure?style=flat-square&label=updated&color=informational)
 - [Deploy Linux or Windows VM as Routers (IPv4/IPv6/NAT)](https://github.com/dmauser/AzureVM-Router) ![updated](https://img.shields.io/github/last-commit/dmauser/AzureVM-Router?style=flat-square&label=updated&color=informational)
 - [Azure Gateway Load Balancer](https://github.com/dmauser/azure-gateway-lb) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-gateway-lb?style=flat-square&label=updated&color=informational)
+
+</details>
 
 ---
 
@@ -202,59 +212,93 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 
 </details>
 
-### Azure DNS
+<details>
+<summary><b>Azure DNS — labs & scripts</b></summary>
 
 - [Azure DNS Private Resolver](https://github.com/dmauser/azure-dns-private-resolver) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-dns-private-resolver?style=flat-square&label=updated&color=informational)
   - [LAB: Azure DNS Private Resolver — Hub and Spoke](https://github.com/dmauser/azure-dns-private-resolver/tree/main/adr-lab)
 - [LAB: Azure DNS Security Policy](https://github.com/dmauser/AzDnsSecurityPolicyLab) ![updated](https://img.shields.io/github/last-commit/dmauser/AzDnsSecurityPolicyLab?style=flat-square&label=updated&color=informational)
 
-### Azure Files
+</details>
+
+<details>
+<summary><b>Azure Files — labs & scripts</b></summary>
 
 - [Network Performance Considerations when Using Azure Files over Private Endpoint](https://github.com/dmauser/azure-files-netperf) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-files-netperf?style=flat-square&label=updated&color=informational)
+
+</details>
 
 ---
 
 ## 🛡️ Firewall & Network Security
+
+<details>
+<summary><b>Firewall & Network Security — labs & scripts</b></summary>
 
 - [LAB: Azure Firewall to Inspect Traffic between VPN and ExpressRoute](https://github.com/dmauser/Lab/tree/master/RS-ER-VPN-Gateway-Transit-AzFW)
 - [LAB: Virtual WAN — Route Traffic Through Azure Firewall Spoke](https://github.com/dmauser/azure-virtualwan/tree/main/inter-region-azfw)
 - [LAB: Secured Virtual Hubs and Routing Intent (Intra-Region)](https://github.com/dmauser/azure-virtualwan/tree/main/svh-ri-intra-region)
 - [LAB: Secured Virtual Hubs Inter-region via ExpressRoute](https://github.com/dmauser/azure-virtualwan/tree/main/svh-inter-region-er)
 
+</details>
+
 ---
 
 ## 🧱 Core Networking & Edge
 
-### Azure Virtual Network
+<details>
+<summary><b>Azure Virtual Network — labs & scripts</b></summary>
 
 - [LAB: Azure Virtual Network Encryption](https://github.com/dmauser/azure-vnet-encryption) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vnet-encryption?style=flat-square&label=updated&color=informational)
 
-### Azure Front Door
+</details>
+
+<details>
+<summary><b>Azure Front Door — labs & scripts</b></summary>
 
 - [LAB: Azure Front Door and Private Link Service](https://github.com/dmauser/azure-frontdoor-pls) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-frontdoor-pls?style=flat-square&label=updated&color=informational)
 
-### Azure VMware Solution (AVS)
+</details>
+
+<details>
+<summary><b>Azure VMware Solution (AVS) — labs & scripts</b></summary>
 
 - [LAB: AVS (ER) to On-prem (ER) Transit using Secured vHub + Routing Intent](https://github.com/dmauser/azure-vmware-solution) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vmware-solution?style=flat-square&label=updated&color=informational)
 
-### Running DHCP Server on Azure
+</details>
+
+<details>
+<summary><b>Running DHCP Server on Azure — labs & scripts</b></summary>
 
 - [Running DHCP Server on Azure VM](https://github.com/dmauser/DHCPServer-On-Azure) ![updated](https://img.shields.io/github/last-commit/dmauser/DHCPServer-On-Azure?style=flat-square&label=updated&color=informational)
 
-### Random Scripts
+</details>
+
+<details>
+<summary><b>Random Scripts — labs & scripts</b></summary>
 
 - [Random Scripts @ GitHub Gist](https://gist.github.com/dmauser)
+
+</details>
 
 ---
 
 ## ☁️ GCP & Multi-Cloud
 
+<details>
+<summary><b>GCP & Multi-Cloud — labs & scripts</b></summary>
+
 - [GCP Base Networking Lab](https://github.com/dmauser/gcp-network-base-lab) ![updated](https://img.shields.io/github/last-commit/dmauser/gcp-network-base-lab?style=flat-square&label=updated&color=informational)
 - [LAB: GCP Site-to-Site VPN with Azure](https://github.com/dmauser/azure-vpn-s2s-gcp) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vpn-s2s-gcp?style=flat-square&label=updated&color=informational)
+
+</details>
 
 ---
 
 ## 🌟 Recommended Repos
+
+<details>
+<summary><b>Recommended community repositories</b></summary>
 
 Community repositories with great Azure Networking content:
 
@@ -270,6 +314,8 @@ Community repositories with great Azure Networking content:
 | [@fguerri](https://github.com/fguerri) |
 | [@hsze](https://github.com/hsze) |
 | [@mddazure](https://github.com/mddazure) |
+
+</details>
 
 ---
 
@@ -300,6 +346,9 @@ Community repositories with great Azure Networking content:
 
 ## 🆕 Recently Updated
 
+<details>
+<summary><b>Recently updated repositories</b></summary>
+
 <sub>Auto-generated daily from my public repositories — see <code>.github/workflows/update-repos.yml</code>.</sub>
 
 <!-- RECENTLY_UPDATED:START -->
@@ -315,9 +364,14 @@ Community repositories with great Azure Networking content:
 - [powerbi-sql-networking](https://github.com/dmauser/powerbi-sql-networking) — Power BI + Azure SQL Private Link demo - secure private connectivity with no public endpoint exposure ![updated](https://img.shields.io/github/last-commit/dmauser/powerbi-sql-networking?style=flat-square&label=updated&color=informational)
 <!-- RECENTLY_UPDATED:END -->
 
+</details>
+
 ---
 
 ## 🧩 New / Not-Yet-Curated
+
+<details>
+<summary><b>New / not-yet-curated repositories</b></summary>
 
 <sub>Public repos not yet filed into a topic section above — auto-generated, a worklist for curation.</sub>
 
@@ -354,3 +408,5 @@ Community repositories with great Azure Networking content:
 - [pfsense-azure](https://github.com/dmauser/pfsense-azure) ![updated](https://img.shields.io/github/last-commit/dmauser/pfsense-azure?style=flat-square&label=updated&color=informational)
 - [PS-Network-Capture](https://github.com/dmauser/PS-Network-Capture) — Network Capture via Powershell ![updated](https://img.shields.io/github/last-commit/dmauser/PS-Network-Capture?style=flat-square&label=updated&color=informational)
 <!-- NEW_REPOS:END -->
+
+</details>
