@@ -44,13 +44,13 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 - [⭐ Featured](#-featured)
 - [🧰 Tools & Extensions](#-tools--extensions)
 - [🔗 Hybrid Connectivity (VPN & ExpressRoute)](#-hybrid-connectivity-vpn--expressroute)
-- [🕸️ Hub & Spoke Architecture](#-hub--spoke-architecture)
+- [🕸 Hub & Spoke Architecture](#-hub--spoke-architecture)
 - [🌐 Virtual WAN](#-virtual-wan)
 - [🧭 Routing, Route Server & NVAs](#-routing-route-server--nvas)
 - [🔒 Private Link & DNS](#-private-link--dns)
-- [🛡️ Firewall & Network Security](#-firewall--network-security)
+- [🛡 Firewall & Network Security](#-firewall--network-security)
 - [🧱 Core Networking & Edge](#-core-networking--edge)
-- [☁️ GCP & Multi-Cloud](#-gcp--multi-cloud)
+- [☁ GCP & Multi-Cloud](#-gcp--multi-cloud)
 - [🌟 Recommended Repos](#-recommended-repos)
 - [📊 GitHub Statistics](#-github-statistics)
 - [🆕 Recently Updated](#-recently-updated)
@@ -114,7 +114,7 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 
 ---
 
-## 🕸️ Hub & Spoke Architecture
+## 🕸 Hub & Spoke Architecture
 
 <details>
 <summary><b>Azure Hub and Spoke — labs & scripts</b> <i>(ExpressRoute, VPN Gateway, Azure Route Server & NVAs such as OPNsense)</i></summary>
@@ -230,7 +230,7 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 
 ---
 
-## 🛡️ Firewall & Network Security
+## 🛡 Firewall & Network Security
 
 <details>
 <summary><b>Firewall & Network Security — labs & scripts</b></summary>
@@ -283,7 +283,7 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 
 ---
 
-## ☁️ GCP & Multi-Cloud
+## ☁ GCP & Multi-Cloud
 
 <details>
 <summary><b>GCP & Multi-Cloud — labs & scripts</b></summary>
