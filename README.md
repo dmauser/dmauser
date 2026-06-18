@@ -43,6 +43,8 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 - [About](#about)
 - [Featured](#featured)
 - [Tools & Extensions](#tools--extensions)
+- [🆕 Recently Updated](#-recently-updated)
+- [🧩 New / Not-Yet-Curated](#-new--not-yet-curated)
 - [Hybrid Connectivity (VPN & ExpressRoute)](#hybrid-connectivity-vpn--expressroute)
 - [Hub & Spoke Architecture](#hub--spoke-architecture)
 - [Virtual WAN](#virtual-wan)
@@ -77,6 +79,65 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 - [Network Desk](https://github.com/dmauser/network-desk) — GitHub Copilot CLI extension pack: 20 specialist AI agents for cloud networking (Azure/AWS/GCP), firewalls (14 vendors), and report generation ![updated](https://img.shields.io/github/last-commit/dmauser/network-desk?style=flat-square&label=updated&color=informational)
 - [Money Desk](https://github.com/dmauser/money-desk) — *(personal project)* GitHub Copilot CLI personal-finance extension pack: 20 specialist AI agents (budget, tax, investing, retirement, debt, credit, insurance, estate, FIRE, and more). Zero deps, analysis-only, private by default ![updated](https://img.shields.io/github/last-commit/dmauser/money-desk?style=flat-square&label=updated&color=informational)
 - [Compute Desk](https://github.com/adtork/compute-desk) — GitHub Copilot CLI extension pack for Azure IaaS VMs: 20 specialist AI agents covering SKU sizing, cost, performance, DR, backup, security, migration, and report generation *(collaboration)* ![updated](https://img.shields.io/github/last-commit/adtork/compute-desk?style=flat-square&label=updated&color=informational)
+
+---
+
+## 🆕 Recently Updated
+
+<sub>Auto-generated daily from my public repositories — see <code>.github/workflows/update-repos.yml</code>.</sub>
+
+<!-- RECENTLY_UPDATED:START -->
+- [azure-er-vpn-coexistence](https://github.com/dmauser/azure-er-vpn-coexistence) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-er-vpn-coexistence?style=flat-square&label=updated&color=informational)
+- [network-desk](https://github.com/dmauser/network-desk) — Network Desk - GitHub Copilot CLI extension pack: 20 specialist AI agents for cloud networking (Azure/AWS/GCP), firewalls (14 vendors), and report generation ![updated](https://img.shields.io/github/last-commit/dmauser/network-desk?style=flat-square&label=updated&color=informational)
+- [azure-virtualwan](https://github.com/dmauser/azure-virtualwan) — Azure Virtual WAN articles and LABs ![updated](https://img.shields.io/github/last-commit/dmauser/azure-virtualwan?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `networking` · `virtual` · `wan`</sub>
+- [money-desk](https://github.com/dmauser/money-desk) — Your personal-finance AI team for GitHub Copilot CLI — 20 specialist agents (budget, tax, investing, retirement, debt, credit, health & Medicare, P&C, life & disability, estate, purchases, education/529, net worth, self-employed, life events, real estate, behavioral, expat, financial literacy, FIRE). Zero deps, analysis-only, private by default. ![updated](https://img.shields.io/github/last-commit/dmauser/money-desk?style=flat-square&label=updated&color=informational)<br>  <sub>`ai-agent` · `budgeting` · `copilot-cli` · `copilot-extension` · `financial-planning` · `github-copilot`</sub>
+- [azure-hub-spoke](https://github.com/dmauser/azure-hub-spoke) — Labs and articles related to Hub and Spoke ![updated](https://img.shields.io/github/last-commit/dmauser/azure-hub-spoke?style=flat-square&label=updated&color=informational)
+- [gcp-network-base-lab](https://github.com/dmauser/gcp-network-base-lab) — This repo helps you build a simple Lab environment in GCP with a single VPC, an Ubuntu VM, Cloud Router for Interconnect, and VPN. ![updated](https://img.shields.io/github/last-commit/dmauser/gcp-network-base-lab?style=flat-square&label=updated&color=informational)
+- [powerplat-network-security](https://github.com/dmauser/powerplat-network-security) — Power Platform VNet support demo lab — private access to Azure Key Vault, SQL, Storage via VNet-injected Managed Environments (US geo, eastus+westus) ![updated](https://img.shields.io/github/last-commit/dmauser/powerplat-network-security?style=flat-square&label=updated&color=informational)
+- [azure-gateway-lb](https://github.com/dmauser/azure-gateway-lb) — Azure Gateway Load Balancer using OPNSense Firewalls in HA ![updated](https://img.shields.io/github/last-commit/dmauser/azure-gateway-lb?style=flat-square&label=updated&color=informational)
+- [ms-foundry-pe-demo](https://github.com/dmauser/ms-foundry-pe-demo) — Demo: Azure OpenAI public-to-private endpoint migration with .NET 8 App Service ![updated](https://img.shields.io/github/last-commit/dmauser/ms-foundry-pe-demo?style=flat-square&label=updated&color=informational)
+- [powerbi-sql-networking](https://github.com/dmauser/powerbi-sql-networking) — Power BI + Azure SQL Private Link demo - secure private connectivity with no public endpoint exposure ![updated](https://img.shields.io/github/last-commit/dmauser/powerbi-sql-networking?style=flat-square&label=updated&color=informational)
+<!-- RECENTLY_UPDATED:END -->
+
+---
+
+## 🧩 New / Not-Yet-Curated
+
+<sub>Public repos not yet filed into a topic section above — auto-generated, a worklist for curation.</sub>
+
+<!-- NEW_REPOS:START -->
+- [powerplat-network-security](https://github.com/dmauser/powerplat-network-security) — Power Platform VNet support demo lab — private access to Azure Key Vault, SQL, Storage via VNet-injected Managed Environments (US geo, eastus+westus) ![updated](https://img.shields.io/github/last-commit/dmauser/powerplat-network-security?style=flat-square&label=updated&color=informational)
+- [ms-foundry-pe-demo](https://github.com/dmauser/ms-foundry-pe-demo) — Demo: Azure OpenAI public-to-private endpoint migration with .NET 8 App Service ![updated](https://img.shields.io/github/last-commit/dmauser/ms-foundry-pe-demo?style=flat-square&label=updated&color=informational)
+- [powerbi-sql-networking](https://github.com/dmauser/powerbi-sql-networking) — Power BI + Azure SQL Private Link demo - secure private connectivity with no public endpoint exposure ![updated](https://img.shields.io/github/last-commit/dmauser/powerbi-sql-networking?style=flat-square&label=updated&color=informational)
+- [powerbi-network-security](https://github.com/dmauser/powerbi-network-security) — Network Security Scenarios with  Power BI ![updated](https://img.shields.io/github/last-commit/dmauser/powerbi-network-security?style=flat-square&label=updated&color=informational)
+- [azure-pls-scale](https://github.com/dmauser/azure-pls-scale) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-pls-scale?style=flat-square&label=updated&color=informational)
+- [azure-er-scalablegw](https://github.com/dmauser/azure-er-scalablegw) — Lab: Implement and manage ER Scalable Gateway ![updated](https://img.shields.io/github/last-commit/dmauser/azure-er-scalablegw?style=flat-square&label=updated&color=informational)
+- [azure-opnsense-labs](https://github.com/dmauser/azure-opnsense-labs) — Templates and Labs with OPNSense ![updated](https://img.shields.io/github/last-commit/dmauser/azure-opnsense-labs?style=flat-square&label=updated&color=informational)
+- [azure-appgw-mtls](https://github.com/dmauser/azure-appgw-mtls) — Demonstrate mtls with Azure Application Gateway ![updated](https://img.shields.io/github/last-commit/dmauser/azure-appgw-mtls?style=flat-square&label=updated&color=informational)
+- [azure-nsp-lab](https://github.com/dmauser/azure-nsp-lab) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-nsp-lab?style=flat-square&label=updated&color=informational)
+- [fabric-network-security](https://github.com/dmauser/fabric-network-security) ![updated](https://img.shields.io/github/last-commit/dmauser/fabric-network-security?style=flat-square&label=updated&color=informational)
+- [azure-p2s-er-issue-repro](https://github.com/dmauser/azure-p2s-er-issue-repro) — This a lab to repro an issue with P2S VPN Gateway and ExpressRoute ![updated](https://img.shields.io/github/last-commit/dmauser/azure-p2s-er-issue-repro?style=flat-square&label=updated&color=informational)
+- [conn-hs-vwan-diagrams](https://github.com/dmauser/conn-hs-vwan-diagrams) — Network Diagrams for Hub and Spoke and Virtual WAN interconnection options. ![updated](https://img.shields.io/github/last-commit/dmauser/conn-hs-vwan-diagrams?style=flat-square&label=updated&color=informational)
+- [azure-vwan-vrf](https://github.com/dmauser/azure-vwan-vrf) — Azure Virtual WAN VRF segmentation ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vwan-vrf?style=flat-square&label=updated&color=informational)
+- [azure-vm-net-tools](https://github.com/dmauser/azure-vm-net-tools) — How to get popular networking tools installed on Azure Linux or Windows VMs. ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vm-net-tools?style=flat-square&label=updated&color=informational)
+- [azure-hub-spoke-base-lab](https://github.com/dmauser/azure-hub-spoke-base-lab) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-hub-spoke-base-lab?style=flat-square&label=updated&color=informational)
+- [mauser-demo2](https://github.com/dmauser/mauser-demo2) ![updated](https://img.shields.io/github/last-commit/dmauser/mauser-demo2?style=flat-square&label=updated&color=informational)
+- [azure-bastion-entra_auth](https://github.com/dmauser/azure-bastion-entra_auth) — Accessing Bastion using Entra Authentication ![updated](https://img.shields.io/github/last-commit/dmauser/azure-bastion-entra_auth?style=flat-square&label=updated&color=informational)
+- [azure-skytap-vwan](https://github.com/dmauser/azure-skytap-vwan) — Skytap Lab using Virtual WAN Routing Intent for ER to ER transit ![updated](https://img.shields.io/github/last-commit/dmauser/azure-skytap-vwan?style=flat-square&label=updated&color=informational)
+- [azure-zt-lab](https://github.com/dmauser/azure-zt-lab) — Lab using Zero Tier ![updated](https://img.shields.io/github/last-commit/dmauser/azure-zt-lab?style=flat-square&label=updated&color=informational)
+- [azure-dhcp-perftest](https://github.com/dmauser/azure-dhcp-perftest) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-dhcp-perftest?style=flat-square&label=updated&color=informational)
+- [azure-subnet-ext](https://github.com/dmauser/azure-subnet-ext) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-subnet-ext?style=flat-square&label=updated&color=informational)
+- [azure-vpn-p2s](https://github.com/dmauser/azure-vpn-p2s) — Azure P2S VPN lab and articles ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vpn-p2s?style=flat-square&label=updated&color=informational)
+- [azure-expressroute-deploy](https://github.com/dmauser/azure-expressroute-deploy) — Provision ExpressRoute with Private peering config pre-populated ![updated](https://img.shields.io/github/last-commit/dmauser/azure-expressroute-deploy?style=flat-square&label=updated&color=informational)
+- [azure-loadbalancer](https://github.com/dmauser/azure-loadbalancer) — Articles /references related to Azure Load Balancer ![updated](https://img.shields.io/github/last-commit/dmauser/azure-loadbalancer?style=flat-square&label=updated&color=informational)
+- [azure-firewall](https://github.com/dmauser/azure-firewall) — Content related to Azure Firewall ![updated](https://img.shields.io/github/last-commit/dmauser/azure-firewall?style=flat-square&label=updated&color=informational)
+- [LinuxNVA](https://github.com/dmauser/LinuxNVA) ![updated](https://img.shields.io/github/last-commit/dmauser/LinuxNVA?style=flat-square&label=updated&color=informational)
+- [webapp-cdn-sample](https://github.com/dmauser/webapp-cdn-sample) ![updated](https://img.shields.io/github/last-commit/dmauser/webapp-cdn-sample?style=flat-square&label=updated&color=informational)
+- [dmauser.github.io](https://github.com/dmauser/dmauser.github.io) — Mauser Blog ![updated](https://img.shields.io/github/last-commit/dmauser/dmauser.github.io?style=flat-square&label=updated&color=informational)
+- [WebAppTM](https://github.com/dmauser/WebAppTM) ![updated](https://img.shields.io/github/last-commit/dmauser/WebAppTM?style=flat-square&label=updated&color=informational)
+- [pfsense-azure](https://github.com/dmauser/pfsense-azure) ![updated](https://img.shields.io/github/last-commit/dmauser/pfsense-azure?style=flat-square&label=updated&color=informational)
+- [PS-Network-Capture](https://github.com/dmauser/PS-Network-Capture) — Network Capture via Powershell ![updated](https://img.shields.io/github/last-commit/dmauser/PS-Network-Capture?style=flat-square&label=updated&color=informational)
+<!-- NEW_REPOS:END -->
 
 ---
 
