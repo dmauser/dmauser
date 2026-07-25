@@ -352,6 +352,7 @@ Community repositories with great Azure Networking content:
 <sub>Auto-generated daily from my public repositories — see <code>.github/workflows/update-repos.yml</code>.</sub>
 
 <!-- RECENTLY_UPDATED:START -->
+- [azure-vnet-encryption](https://github.com/dmauser/azure-vnet-encryption) — Lab Azure Virtual Network Encryption ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vnet-encryption?style=flat-square&label=updated&color=informational)
 - [azure-monitor-workshop](https://github.com/dmauser/azure-monitor-workshop) — One-command Azure Monitor observability demo lab: Logs Ingestion API, DCE/DCRs, custom tables, and synthetic telemetry across five real-world scenarios. ![updated](https://img.shields.io/github/last-commit/dmauser/azure-monitor-workshop?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `azure-monitor` · `bicep` · `hands-on-lab` · `kql` · `log-analytics`</sub>
 - [azure-er-vpn-coexistence](https://github.com/dmauser/azure-er-vpn-coexistence) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-er-vpn-coexistence?style=flat-square&label=updated&color=informational)
 - [network-desk](https://github.com/dmauser/network-desk) — Network Desk - GitHub Copilot CLI extension pack: 20 specialist AI agents for cloud networking (Azure/AWS/GCP), firewalls (14 vendors), and report generation ![updated](https://img.shields.io/github/last-commit/dmauser/network-desk?style=flat-square&label=updated&color=informational)
@@ -361,7 +362,6 @@ Community repositories with great Azure Networking content:
 - [gcp-network-base-lab](https://github.com/dmauser/gcp-network-base-lab) — This repo helps you build a simple Lab environment in GCP with a single VPC, an Ubuntu VM, Cloud Router for Interconnect, and VPN. ![updated](https://img.shields.io/github/last-commit/dmauser/gcp-network-base-lab?style=flat-square&label=updated&color=informational)
 - [powerplat-network-security](https://github.com/dmauser/powerplat-network-security) — Power Platform VNet support demo lab — private access to Azure Key Vault, SQL, Storage via VNet-injected Managed Environments (US geo, eastus+westus) ![updated](https://img.shields.io/github/last-commit/dmauser/powerplat-network-security?style=flat-square&label=updated&color=informational)
 - [azure-gateway-lb](https://github.com/dmauser/azure-gateway-lb) — Azure Gateway Load Balancer using OPNSense Firewalls in HA ![updated](https://img.shields.io/github/last-commit/dmauser/azure-gateway-lb?style=flat-square&label=updated&color=informational)
-- [ms-foundry-pe-demo](https://github.com/dmauser/ms-foundry-pe-demo) — Demo: Azure OpenAI public-to-private endpoint migration with .NET 8 App Service ![updated](https://img.shields.io/github/last-commit/dmauser/ms-foundry-pe-demo?style=flat-square&label=updated&color=informational)
 <!-- RECENTLY_UPDATED:END -->
 
 </details>
