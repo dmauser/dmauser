@@ -352,6 +352,7 @@ Community repositories with great Azure Networking content:
 <sub>Auto-generated daily from my public repositories — see <code>.github/workflows/update-repos.yml</code>.</sub>
 
 <!-- RECENTLY_UPDATED:START -->
+- [ms-foundry-pe-demo](https://github.com/dmauser/ms-foundry-pe-demo) — Demo: Azure OpenAI public-to-private endpoint migration with .NET 8 App Service ![updated](https://img.shields.io/github/last-commit/dmauser/ms-foundry-pe-demo?style=flat-square&label=updated&color=informational)
 - [azure-virtualwan](https://github.com/dmauser/azure-virtualwan) — Azure Virtual WAN articles and LABs ![updated](https://img.shields.io/github/last-commit/dmauser/azure-virtualwan?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `networking` · `virtual` · `wan`</sub>
 - [azure-vnet-encryption](https://github.com/dmauser/azure-vnet-encryption) — Lab Azure Virtual Network Encryption ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vnet-encryption?style=flat-square&label=updated&color=informational)
 - [azure-monitor-workshop](https://github.com/dmauser/azure-monitor-workshop) — One-command Azure Monitor observability demo lab: Logs Ingestion API, DCE/DCRs, custom tables, and synthetic telemetry across five real-world scenarios. ![updated](https://img.shields.io/github/last-commit/dmauser/azure-monitor-workshop?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `azure-monitor` · `bicep` · `hands-on-lab` · `kql` · `log-analytics`</sub>
@@ -361,7 +362,6 @@ Community repositories with great Azure Networking content:
 - [azure-hub-spoke](https://github.com/dmauser/azure-hub-spoke) — Labs and articles related to Hub and Spoke ![updated](https://img.shields.io/github/last-commit/dmauser/azure-hub-spoke?style=flat-square&label=updated&color=informational)
 - [gcp-network-base-lab](https://github.com/dmauser/gcp-network-base-lab) — This repo helps you build a simple Lab environment in GCP with a single VPC, an Ubuntu VM, Cloud Router for Interconnect, and VPN. ![updated](https://img.shields.io/github/last-commit/dmauser/gcp-network-base-lab?style=flat-square&label=updated&color=informational)
 - [powerplat-network-security](https://github.com/dmauser/powerplat-network-security) — Power Platform VNet support demo lab — private access to Azure Key Vault, SQL, Storage via VNet-injected Managed Environments (US geo, eastus+westus) ![updated](https://img.shields.io/github/last-commit/dmauser/powerplat-network-security?style=flat-square&label=updated&color=informational)
-- [azure-gateway-lb](https://github.com/dmauser/azure-gateway-lb) — Azure Gateway Load Balancer using OPNSense Firewalls in HA ![updated](https://img.shields.io/github/last-commit/dmauser/azure-gateway-lb?style=flat-square&label=updated&color=informational)
 <!-- RECENTLY_UPDATED:END -->
 
 </details>
@@ -376,9 +376,9 @@ Community repositories with great Azure Networking content:
 <sub>Public repos not yet filed into a topic section above — auto-generated, a worklist for curation.</sub>
 
 <!-- NEW_REPOS:START -->
+- [ms-foundry-pe-demo](https://github.com/dmauser/ms-foundry-pe-demo) — Demo: Azure OpenAI public-to-private endpoint migration with .NET 8 App Service ![updated](https://img.shields.io/github/last-commit/dmauser/ms-foundry-pe-demo?style=flat-square&label=updated&color=informational)
 - [azure-monitor-workshop](https://github.com/dmauser/azure-monitor-workshop) — One-command Azure Monitor observability demo lab: Logs Ingestion API, DCE/DCRs, custom tables, and synthetic telemetry across five real-world scenarios. ![updated](https://img.shields.io/github/last-commit/dmauser/azure-monitor-workshop?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `azure-monitor` · `bicep` · `hands-on-lab` · `kql` · `log-analytics`</sub>
 - [powerplat-network-security](https://github.com/dmauser/powerplat-network-security) — Power Platform VNet support demo lab — private access to Azure Key Vault, SQL, Storage via VNet-injected Managed Environments (US geo, eastus+westus) ![updated](https://img.shields.io/github/last-commit/dmauser/powerplat-network-security?style=flat-square&label=updated&color=informational)
-- [ms-foundry-pe-demo](https://github.com/dmauser/ms-foundry-pe-demo) — Demo: Azure OpenAI public-to-private endpoint migration with .NET 8 App Service ![updated](https://img.shields.io/github/last-commit/dmauser/ms-foundry-pe-demo?style=flat-square&label=updated&color=informational)
 - [powerbi-sql-networking](https://github.com/dmauser/powerbi-sql-networking) — Power BI + Azure SQL Private Link demo - secure private connectivity with no public endpoint exposure ![updated](https://img.shields.io/github/last-commit/dmauser/powerbi-sql-networking?style=flat-square&label=updated&color=informational)
 - [powerbi-network-security](https://github.com/dmauser/powerbi-network-security) — Network Security Scenarios with  Power BI ![updated](https://img.shields.io/github/last-commit/dmauser/powerbi-network-security?style=flat-square&label=updated&color=informational)
 - [azure-pls-scale](https://github.com/dmauser/azure-pls-scale) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-pls-scale?style=flat-square&label=updated&color=informational)
