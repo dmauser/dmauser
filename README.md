@@ -68,6 +68,7 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 - [Deploy Linux or Windows VM as Routers (IPv4/IPv6/NAT)](https://github.com/dmauser/AzureVM-Router) ![updated](https://img.shields.io/github/last-commit/dmauser/AzureVM-Router?style=flat-square&label=updated&color=informational)
 - [LAB: Azure DNS Security Policy](https://github.com/dmauser/AzDnsSecurityPolicyLab) ![updated](https://img.shields.io/github/last-commit/dmauser/AzDnsSecurityPolicyLab?style=flat-square&label=updated&color=informational)
 - [LAB: Azure Virtual Network Encryption](https://github.com/dmauser/azure-vnet-encryption) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vnet-encryption?style=flat-square&label=updated&color=informational)
+- [LAB: Secure Access to Azure AI Foundry (Private Endpoint / NSP / VNet-injected Agent)](https://github.com/dmauser/ms-foundry-secure-access) ![updated](https://img.shields.io/github/last-commit/dmauser/ms-foundry-secure-access?style=flat-square&label=updated&color=informational)
 
 ---
 
@@ -239,6 +240,7 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 - [LAB: Virtual WAN — Route Traffic Through Azure Firewall Spoke](https://github.com/dmauser/azure-virtualwan/tree/main/inter-region-azfw)
 - [LAB: Secured Virtual Hubs and Routing Intent (Intra-Region)](https://github.com/dmauser/azure-virtualwan/tree/main/svh-ri-intra-region)
 - [LAB: Secured Virtual Hubs Inter-region via ExpressRoute](https://github.com/dmauser/azure-virtualwan/tree/main/svh-inter-region-er)
+- [LAB: Secure Access to Azure AI Foundry](https://github.com/dmauser/ms-foundry-secure-access) — Securing access to Azure AI Foundry (.NET 8 App Service); 3 scenarios: Private Endpoint, Network Security Perimeter with managed-identity access, and VNet-injected private Agent with app-side RAG over private AI Search ![updated](https://img.shields.io/github/last-commit/dmauser/ms-foundry-secure-access?style=flat-square&label=updated&color=informational)
 
 </details>
 
@@ -376,7 +378,6 @@ Community repositories with great Azure Networking content:
 <sub>Public repos not yet filed into a topic section above — auto-generated, a worklist for curation.</sub>
 
 <!-- NEW_REPOS:START -->
-- [ms-foundry-secure-access](https://github.com/dmauser/ms-foundry-secure-access) — Securing access to Azure AI Foundry (.NET 8 App Service) — 3 scenarios: Private Endpoint, Network Security Perimeter with managed-identity access, and VNet-injected private Agent with app-side RAG over private AI Search. ![updated](https://img.shields.io/github/last-commit/dmauser/ms-foundry-secure-access?style=flat-square&label=updated&color=informational)
 - [azure-monitor-workshop](https://github.com/dmauser/azure-monitor-workshop) — One-command Azure Monitor observability demo lab: Logs Ingestion API, DCE/DCRs, custom tables, and synthetic telemetry across five real-world scenarios. ![updated](https://img.shields.io/github/last-commit/dmauser/azure-monitor-workshop?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `azure-monitor` · `bicep` · `hands-on-lab` · `kql` · `log-analytics`</sub>
 - [powerplat-network-security](https://github.com/dmauser/powerplat-network-security) — Power Platform VNet support demo lab — private access to Azure Key Vault, SQL, Storage via VNet-injected Managed Environments (US geo, eastus+westus) ![updated](https://img.shields.io/github/last-commit/dmauser/powerplat-network-security?style=flat-square&label=updated&color=informational)
 - [powerbi-sql-networking](https://github.com/dmauser/powerbi-sql-networking) — Power BI + Azure SQL Private Link demo - secure private connectivity with no public endpoint exposure ![updated](https://img.shields.io/github/last-commit/dmauser/powerbi-sql-networking?style=flat-square&label=updated&color=informational)
