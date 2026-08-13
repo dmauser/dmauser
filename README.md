@@ -354,6 +354,7 @@ Community repositories with great Azure Networking content:
 <sub>Auto-generated daily from my public repositories — see <code>.github/workflows/update-repos.yml</code>.</sub>
 
 <!-- RECENTLY_UPDATED:START -->
+- [AzureVM-Router](https://github.com/dmauser/AzureVM-Router) — Deploy Azure VM (Linux or Windows) with IP forwarding enabled to be used as Router ![updated](https://img.shields.io/github/last-commit/dmauser/AzureVM-Router?style=flat-square&label=updated&color=informational)
 - [azure-zt-lab](https://github.com/dmauser/azure-zt-lab) — Lab using Zero Tier ![updated](https://img.shields.io/github/last-commit/dmauser/azure-zt-lab?style=flat-square&label=updated&color=informational)
 - [ms-foundry-secure-access](https://github.com/dmauser/ms-foundry-secure-access) — Securing access to Azure AI Foundry (.NET 8 App Service) — 3 scenarios: Private Endpoint, Network Security Perimeter with managed-identity access, and VNet-injected private Agent with app-side RAG over private AI Search. ![updated](https://img.shields.io/github/last-commit/dmauser/ms-foundry-secure-access?style=flat-square&label=updated&color=informational)
 - [azure-virtualwan](https://github.com/dmauser/azure-virtualwan) — Azure Virtual WAN articles and LABs ![updated](https://img.shields.io/github/last-commit/dmauser/azure-virtualwan?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `networking` · `virtual` · `wan`</sub>
@@ -363,7 +364,6 @@ Community repositories with great Azure Networking content:
 - [network-desk](https://github.com/dmauser/network-desk) — Network Desk - GitHub Copilot CLI extension pack: 20 specialist AI agents for cloud networking (Azure/AWS/GCP), firewalls (14 vendors), and report generation ![updated](https://img.shields.io/github/last-commit/dmauser/network-desk?style=flat-square&label=updated&color=informational)
 - [money-desk](https://github.com/dmauser/money-desk) — Your personal-finance AI team for GitHub Copilot CLI — 20 specialist agents (budget, tax, investing, retirement, debt, credit, health & Medicare, P&C, life & disability, estate, purchases, education/529, net worth, self-employed, life events, real estate, behavioral, expat, financial literacy, FIRE). Zero deps, analysis-only, private by default. ![updated](https://img.shields.io/github/last-commit/dmauser/money-desk?style=flat-square&label=updated&color=informational)<br>  <sub>`ai-agent` · `budgeting` · `copilot-cli` · `copilot-extension` · `financial-planning` · `github-copilot`</sub>
 - [azure-hub-spoke](https://github.com/dmauser/azure-hub-spoke) — Labs and articles related to Hub and Spoke ![updated](https://img.shields.io/github/last-commit/dmauser/azure-hub-spoke?style=flat-square&label=updated&color=informational)
-- [gcp-network-base-lab](https://github.com/dmauser/gcp-network-base-lab) — This repo helps you build a simple Lab environment in GCP with a single VPC, an Ubuntu VM, Cloud Router for Interconnect, and VPN. ![updated](https://img.shields.io/github/last-commit/dmauser/gcp-network-base-lab?style=flat-square&label=updated&color=informational)
 <!-- RECENTLY_UPDATED:END -->
 
 </details>
