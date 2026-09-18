@@ -69,6 +69,7 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 - [LAB: Azure DNS Security Policy](https://github.com/dmauser/AzDnsSecurityPolicyLab) ![updated](https://img.shields.io/github/last-commit/dmauser/AzDnsSecurityPolicyLab?style=flat-square&label=updated&color=informational)
 - [LAB: Azure Virtual Network Encryption](https://github.com/dmauser/azure-vnet-encryption) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vnet-encryption?style=flat-square&label=updated&color=informational)
 - [LAB: Secure Access to Azure AI Foundry (Private Endpoint / NSP / VNet-injected Agent)](https://github.com/dmauser/ms-foundry-secure-access) ![updated](https://img.shields.io/github/last-commit/dmauser/ms-foundry-secure-access?style=flat-square&label=updated&color=informational)
+- [LAB: Azure ↔ AWS Multicloud Interconnect (private VM-to-VM over ExpressRoute)](https://github.com/dmauser/azure-aws-interconnect-lab) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-aws-interconnect-lab?style=flat-square&label=updated&color=informational)
 
 ---
 
@@ -292,6 +293,7 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 
 - [GCP Base Networking Lab](https://github.com/dmauser/gcp-network-base-lab) ![updated](https://img.shields.io/github/last-commit/dmauser/gcp-network-base-lab?style=flat-square&label=updated&color=informational)
 - [LAB: GCP Site-to-Site VPN with Azure](https://github.com/dmauser/azure-vpn-s2s-gcp) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vpn-s2s-gcp?style=flat-square&label=updated&color=informational)
+- [LAB: Azure ↔ AWS Multicloud Interconnect](https://github.com/dmauser/azure-aws-interconnect-lab) — Minimum-cost lab proving private VM-to-VM connectivity between Azure and AWS over an AWS Interconnect-multicloud link paired with an Azure Multicloud Interconnect ExpressRoute circuit; Terraform + guided PowerShell/bash setup ![updated](https://img.shields.io/github/last-commit/dmauser/azure-aws-interconnect-lab?style=flat-square&label=updated&color=informational)
 
 </details>
 
@@ -378,7 +380,6 @@ Community repositories with great Azure Networking content:
 <sub>Public repos not yet filed into a topic section above — auto-generated, a worklist for curation.</sub>
 
 <!-- NEW_REPOS:START -->
-- [azure-aws-interconnect-lab](https://github.com/dmauser/azure-aws-interconnect-lab) — Minimum-cost lab proving private VM-to-VM connectivity between Azure and AWS over an AWS Interconnect - multicloud link paired with an Azure Multicloud Interconnect ExpressRoute circuit. Terraform + guided PowerShell/bash setup. ![updated](https://img.shields.io/github/last-commit/dmauser/azure-aws-interconnect-lab?style=flat-square&label=updated&color=informational)
 - [azure-zt-lab](https://github.com/dmauser/azure-zt-lab) — Lab using Zero Tier ![updated](https://img.shields.io/github/last-commit/dmauser/azure-zt-lab?style=flat-square&label=updated&color=informational)
 - [az-dnsruleset-failover](https://github.com/dmauser/az-dnsruleset-failover) — Empirical Azure lab measuring DNS Private Resolver behaviour with multiple destination DNS servers in a Forwarding Ruleset: selection algorithm, failover timing, exponential backoff, and recovery ![updated](https://img.shields.io/github/last-commit/dmauser/az-dnsruleset-failover?style=flat-square&label=updated&color=informational)
 - [azure-monitor-workshop](https://github.com/dmauser/azure-monitor-workshop) — One-command Azure Monitor observability demo lab: Logs Ingestion API, DCE/DCRs, custom tables, and synthetic telemetry across five real-world scenarios. ![updated](https://img.shields.io/github/last-commit/dmauser/azure-monitor-workshop?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `azure-monitor` · `bicep` · `hands-on-lab` · `kql` · `log-analytics`</sub>
