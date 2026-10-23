@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Update the auto-managed sections of the profile README.
 
-Rebuilds two marker-delimited blocks:
+Rebuilds three marker-delimited blocks:
+  * MOST_POPULAR     - top N public, non-fork repos by GitHub stars.
   * RECENTLY_UPDATED - top N public, non-fork repos by push date.
   * NEW_REPOS        - public, non-fork repos not already linked in the
                        hand-curated portion of the README.
@@ -17,9 +18,12 @@ from pathlib import Path
 
 OWNER = "dmauser"
 SELF_REPO = "dmauser"  # the profile repo itself, always excluded
+POPULAR_LIMIT = 10
 RECENT_LIMIT = 10
 README = Path(__file__).resolve().parents[2] / "README.md"
 
+POPULAR_START = "<!-- MOST_POPULAR:START -->"
+POPULAR_END = "<!-- MOST_POPULAR:END -->"
 RECENT_START = "<!-- RECENTLY_UPDATED:START -->"
 RECENT_END = "<!-- RECENTLY_UPDATED:END -->"
 NEW_START = "<!-- NEW_REPOS:START -->"
@@ -32,7 +36,7 @@ def fetch_repos():
             "gh", "repo", "list", OWNER,
             "--visibility", "public", "--no-archived",
             "--limit", "300",
-            "--json", "name,description,url,pushedAt,isFork,repositoryTopics",
+            "--json", "name,description,url,pushedAt,isFork,repositoryTopics,stargazerCount",
         ],
         capture_output=True, text=True, encoding="utf-8", check=True,
     ).stdout
@@ -50,6 +54,7 @@ def fetch_repos():
                 "url": r["url"],
                 "desc": (r.get("description") or "").strip(),
                 "pushed": r.get("pushedAt") or "",
+                "stars": r.get("stargazerCount") or 0,
                 "topics": topics,
             }
         )
@@ -60,6 +65,13 @@ def badge(name):
     return (
         f"![updated](https://img.shields.io/github/last-commit/{OWNER}/{name}"
         f"?style=flat-square&label=updated&color=informational)"
+    )
+
+
+def stars_badge(name):
+    return (
+        f"![stars](https://img.shields.io/github/stars/{OWNER}/{name}"
+        f"?style=flat-square&label=stars&color=yellow)"
     )
 
 
@@ -75,6 +87,14 @@ def render(repo):
     return line
 
 
+def render_popular(repo):
+    parts = [f"- [{repo['name']}]({repo['url']})"]
+    if repo["desc"]:
+        parts.append(f"— {repo['desc']}")
+    parts.append(stars_badge(repo["name"]))
+    return " ".join(parts)
+
+
 def replace_block(text, start, end, body):
     pattern = re.compile(re.escape(start) + r".*?" + re.escape(end), re.DOTALL)
     return pattern.sub(f"{start}\n{body}\n{end}", text)
@@ -82,7 +102,8 @@ def replace_block(text, start, end, body):
 
 def curated_repo_names(text):
     """Repo names linked in the README outside the auto-managed blocks."""
-    stripped = replace_block(text, RECENT_START, RECENT_END, "")
+    stripped = replace_block(text, POPULAR_START, POPULAR_END, "")
+    stripped = replace_block(stripped, RECENT_START, RECENT_END, "")
     stripped = replace_block(stripped, NEW_START, NEW_END, "")
     names = set()
     for m in re.finditer(r"github\.com/" + re.escape(OWNER) + r"/([A-Za-z0-9_.-]+)", stripped):
@@ -95,6 +116,12 @@ def main():
     repos = fetch_repos()
     by_pushed = sorted(repos, key=lambda r: r["pushed"], reverse=True)
 
+    popular = sorted(
+        (r for r in repos if r["stars"] > 0),
+        key=lambda r: (-r["stars"], r["name"].lower()),
+    )[:POPULAR_LIMIT]
+    popular_body = "\n".join(render_popular(r) for r in popular) or "- _No starred repositories found._"
+
     recent = by_pushed[:RECENT_LIMIT]
     recent_body = "\n".join(render(r) for r in recent) or "- _No repositories found._"
 
@@ -102,7 +129,8 @@ def main():
     new = [r for r in by_pushed if r["name"].lower() not in known]
     new_body = "\n".join(render(r) for r in new) or "- _All public repos are already curated._"
 
-    updated = replace_block(text, RECENT_START, RECENT_END, recent_body)
+    updated = replace_block(text, POPULAR_START, POPULAR_END, popular_body)
+    updated = replace_block(updated, RECENT_START, RECENT_END, recent_body)
     updated = replace_block(updated, NEW_START, NEW_END, new_body)
 
     if updated == text:
@@ -110,7 +138,10 @@ def main():
         return 0
 
     README.write_text(updated, encoding="utf-8")
-    print(f"Updated: {len(recent)} recent, {len(new)} not-yet-curated.")
+    print(
+        f"Updated: {len(popular)} popular, {len(recent)} recent, "
+        f"{len(new)} not-yet-curated."
+    )
     return 0
 
 
