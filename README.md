@@ -83,16 +83,16 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 <sub>Auto-generated daily from my public repositories — see <code>.github/workflows/update-repos.yml</code>.</sub>
 
 <!-- MOST_POPULAR:START -->
-- [PrivateLink](https://github.com/dmauser/PrivateLink) — Content and Labs on Azure Private Link ![stars](https://img.shields.io/github/stars/dmauser/PrivateLink?style=flat-square&label=stars&color=yellow)
-- [opnazure](https://github.com/dmauser/opnazure) — This template allows you to deploy an OPNsense Firewall Azure VM using the opnsense-bootsrtap installation method ![stars](https://img.shields.io/github/stars/dmauser/opnazure?style=flat-square&label=stars&color=yellow)
-- [Lab](https://github.com/dmauser/Lab) — Networking labs, content and sample scripts. ![stars](https://img.shields.io/github/stars/dmauser/Lab?style=flat-square&label=stars&color=yellow)
-- [azure-virtualwan](https://github.com/dmauser/azure-virtualwan) — Azure Virtual WAN articles and LABs ![stars](https://img.shields.io/github/stars/dmauser/azure-virtualwan?style=flat-square&label=stars&color=yellow)
-- [azure-dns-private-resolver](https://github.com/dmauser/azure-dns-private-resolver) — Resources related to Azure Private DNS Resolver ![stars](https://img.shields.io/github/stars/dmauser/azure-dns-private-resolver?style=flat-square&label=stars&color=yellow)
-- [azure-gateway-lb](https://github.com/dmauser/azure-gateway-lb) — Azure Gateway Load Balancer using OPNSense Firewalls in HA ![stars](https://img.shields.io/github/stars/dmauser/azure-gateway-lb?style=flat-square&label=stars&color=yellow)
-- [AzureVM-Router](https://github.com/dmauser/AzureVM-Router) — Deploy Azure VM (Linux or Windows) with IP forwarding enabled to be used as Router ![stars](https://img.shields.io/github/stars/dmauser/AzureVM-Router?style=flat-square&label=stars&color=yellow)
-- [azure-vnet-encryption](https://github.com/dmauser/azure-vnet-encryption) — Lab Azure Virtual Network Encryption ![stars](https://img.shields.io/github/stars/dmauser/azure-vnet-encryption?style=flat-square&label=stars&color=yellow)
-- [azure-expressroute](https://github.com/dmauser/azure-expressroute) ![stars](https://img.shields.io/github/stars/dmauser/azure-expressroute?style=flat-square&label=stars&color=yellow)
-- [network-desk](https://github.com/dmauser/network-desk) — Network Desk - GitHub Copilot CLI extension pack: 20 specialist AI agents for cloud networking (Azure/AWS/GCP), firewalls (14 vendors), and report generation ![stars](https://img.shields.io/github/stars/dmauser/network-desk?style=flat-square&label=stars&color=yellow)
+- [Azure Private Link](https://github.com/dmauser/PrivateLink) — Content and Labs on Azure Private Link ![stars](https://img.shields.io/github/stars/dmauser/PrivateLink?style=flat-square&label=stars&color=yellow)
+- [OPNsense NVA Firewall in Azure](https://github.com/dmauser/opnazure) — This template allows you to deploy an OPNsense Firewall Azure VM using the opnsense-bootsrtap installation method ![stars](https://img.shields.io/github/stars/dmauser/opnazure?style=flat-square&label=stars&color=yellow)
+- [Azure Networking Labs & Scripts](https://github.com/dmauser/Lab) — Networking labs, content and sample scripts. ![stars](https://img.shields.io/github/stars/dmauser/Lab?style=flat-square&label=stars&color=yellow)
+- [Azure Virtual WAN](https://github.com/dmauser/azure-virtualwan) — Azure Virtual WAN articles and LABs ![stars](https://img.shields.io/github/stars/dmauser/azure-virtualwan?style=flat-square&label=stars&color=yellow)
+- [Azure DNS Private Resolver](https://github.com/dmauser/azure-dns-private-resolver) — Resources related to Azure Private DNS Resolver ![stars](https://img.shields.io/github/stars/dmauser/azure-dns-private-resolver?style=flat-square&label=stars&color=yellow)
+- [Azure Gateway Load Balancer with OPNsense HA](https://github.com/dmauser/azure-gateway-lb) — Azure Gateway Load Balancer using OPNSense Firewalls in HA ![stars](https://img.shields.io/github/stars/dmauser/azure-gateway-lb?style=flat-square&label=stars&color=yellow)
+- [Deploy Linux or Windows VM as Routers (IPv4/IPv6/NAT)](https://github.com/dmauser/AzureVM-Router) — Deploy Azure VM (Linux or Windows) with IP forwarding enabled to be used as Router ![stars](https://img.shields.io/github/stars/dmauser/AzureVM-Router?style=flat-square&label=stars&color=yellow)
+- [Azure Virtual Network Encryption](https://github.com/dmauser/azure-vnet-encryption) — Lab Azure Virtual Network Encryption ![stars](https://img.shields.io/github/stars/dmauser/azure-vnet-encryption?style=flat-square&label=stars&color=yellow)
+- [Azure ExpressRoute](https://github.com/dmauser/azure-expressroute) ![stars](https://img.shields.io/github/stars/dmauser/azure-expressroute?style=flat-square&label=stars&color=yellow)
+- [Network Desk — Cloud Networking AI Agents](https://github.com/dmauser/network-desk) — Network Desk - GitHub Copilot CLI extension pack: 20 specialist AI agents for cloud networking (Azure/AWS/GCP), firewalls (14 vendors), and report generation ![stars](https://img.shields.io/github/stars/dmauser/network-desk?style=flat-square&label=stars&color=yellow)
 <!-- MOST_POPULAR:END -->
 
 </details>

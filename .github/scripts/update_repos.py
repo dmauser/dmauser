@@ -29,6 +29,37 @@ RECENT_END = "<!-- RECENTLY_UPDATED:END -->"
 NEW_START = "<!-- NEW_REPOS:START -->"
 NEW_END = "<!-- NEW_REPOS:END -->"
 
+POPULAR_DISPLAY_NAMES = {
+    "azure-dns-private-resolver": "Azure DNS Private Resolver",
+    "azure-expressroute": "Azure ExpressRoute",
+    "azure-gateway-lb": "Azure Gateway Load Balancer with OPNsense HA",
+    "azure-virtualwan": "Azure Virtual WAN",
+    "azure-vnet-encryption": "Azure Virtual Network Encryption",
+    "azurevm-router": "Deploy Linux or Windows VM as Routers (IPv4/IPv6/NAT)",
+    "lab": "Azure Networking Labs & Scripts",
+    "network-desk": "Network Desk — Cloud Networking AI Agents",
+    "opnazure": "OPNsense NVA Firewall in Azure",
+    "privatelink": "Azure Private Link",
+}
+
+DISPLAY_WORDS = {
+    "ai": "AI",
+    "aws": "AWS",
+    "azure": "Azure",
+    "dns": "DNS",
+    "gcp": "GCP",
+    "ha": "HA",
+    "ip": "IP",
+    "ipv4": "IPv4",
+    "ipv6": "IPv6",
+    "nva": "NVA",
+    "opnsense": "OPNsense",
+    "vm": "VM",
+    "vnet": "VNet",
+    "vpn": "VPN",
+    "wan": "WAN",
+}
+
 
 def fetch_repos():
     out = subprocess.run(
@@ -75,6 +106,15 @@ def stars_badge(name):
     )
 
 
+def friendly_name(name):
+    override = POPULAR_DISPLAY_NAMES.get(name.lower())
+    if override:
+        return override
+
+    words = re.split(r"[-_.]+", name)
+    return " ".join(DISPLAY_WORDS.get(word.lower(), word.capitalize()) for word in words)
+
+
 def render(repo):
     parts = [f"- [{repo['name']}]({repo['url']})"]
     if repo["desc"]:
@@ -88,7 +128,7 @@ def render(repo):
 
 
 def render_popular(repo):
-    parts = [f"- [{repo['name']}]({repo['url']})"]
+    parts = [f"- [{friendly_name(repo['name'])}]({repo['url']})"]
     if repo["desc"]:
         parts.append(f"— {repo['desc']}")
     parts.append(stars_badge(repo["name"]))
