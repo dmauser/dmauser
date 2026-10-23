@@ -42,6 +42,7 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 
 - [👋 About](#-about)
 - [⭐ Featured](#-featured)
+- [🔥 Most Popular Repositories](#-most-popular-repositories)
 - [🧰 Tools & Extensions](#-tools--extensions)
 - [🔗 Hybrid Connectivity (VPN & ExpressRoute)](#-hybrid-connectivity-vpn--expressroute)
 - [🕸 Hub & Spoke Architecture](#-hub--spoke-architecture)
@@ -70,6 +71,31 @@ Financial Services) and publishing reproducible Azure networking labs from real 
 - [LAB: Azure Virtual Network Encryption](https://github.com/dmauser/azure-vnet-encryption) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vnet-encryption?style=flat-square&label=updated&color=informational)
 - [LAB: Secure Access to Azure AI Foundry (Private Endpoint / NSP / VNet-injected Agent)](https://github.com/dmauser/ms-foundry-secure-access) ![updated](https://img.shields.io/github/last-commit/dmauser/ms-foundry-secure-access?style=flat-square&label=updated&color=informational)
 - [LAB: Azure ↔ AWS Multicloud Interconnect (private VM-to-VM over ExpressRoute)](https://github.com/dmauser/azure-aws-interconnect-lab) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-aws-interconnect-lab?style=flat-square&label=updated&color=informational)
+- [FinOps & SRE Agent Pack for Azure SRE Agent](https://github.com/dmauser/finops-sre-agent-pack) — Cost anomaly detection, planned rightsizing, showback, budgets, and FinOps for AI ![updated](https://img.shields.io/github/last-commit/dmauser/finops-sre-agent-pack?style=flat-square&label=updated&color=informational)
+
+---
+
+## 🔥 Most Popular Repositories
+
+<details open>
+<summary><b>Top repositories by GitHub stars</b></summary>
+
+<sub>Auto-generated daily from my public repositories — see <code>.github/workflows/update-repos.yml</code>.</sub>
+
+<!-- MOST_POPULAR:START -->
+- [PrivateLink](https://github.com/dmauser/PrivateLink) — Content and Labs on Azure Private Link ![stars](https://img.shields.io/github/stars/dmauser/PrivateLink?style=flat-square&label=stars&color=yellow)
+- [opnazure](https://github.com/dmauser/opnazure) — This template allows you to deploy an OPNsense Firewall Azure VM using the opnsense-bootsrtap installation method ![stars](https://img.shields.io/github/stars/dmauser/opnazure?style=flat-square&label=stars&color=yellow)
+- [Lab](https://github.com/dmauser/Lab) — Networking labs, content and sample scripts. ![stars](https://img.shields.io/github/stars/dmauser/Lab?style=flat-square&label=stars&color=yellow)
+- [azure-virtualwan](https://github.com/dmauser/azure-virtualwan) — Azure Virtual WAN articles and LABs ![stars](https://img.shields.io/github/stars/dmauser/azure-virtualwan?style=flat-square&label=stars&color=yellow)
+- [azure-dns-private-resolver](https://github.com/dmauser/azure-dns-private-resolver) — Resources related to Azure Private DNS Resolver ![stars](https://img.shields.io/github/stars/dmauser/azure-dns-private-resolver?style=flat-square&label=stars&color=yellow)
+- [azure-gateway-lb](https://github.com/dmauser/azure-gateway-lb) — Azure Gateway Load Balancer using OPNSense Firewalls in HA ![stars](https://img.shields.io/github/stars/dmauser/azure-gateway-lb?style=flat-square&label=stars&color=yellow)
+- [AzureVM-Router](https://github.com/dmauser/AzureVM-Router) — Deploy Azure VM (Linux or Windows) with IP forwarding enabled to be used as Router ![stars](https://img.shields.io/github/stars/dmauser/AzureVM-Router?style=flat-square&label=stars&color=yellow)
+- [azure-vnet-encryption](https://github.com/dmauser/azure-vnet-encryption) — Lab Azure Virtual Network Encryption ![stars](https://img.shields.io/github/stars/dmauser/azure-vnet-encryption?style=flat-square&label=stars&color=yellow)
+- [azure-expressroute](https://github.com/dmauser/azure-expressroute) ![stars](https://img.shields.io/github/stars/dmauser/azure-expressroute?style=flat-square&label=stars&color=yellow)
+- [network-desk](https://github.com/dmauser/network-desk) — Network Desk - GitHub Copilot CLI extension pack: 20 specialist AI agents for cloud networking (Azure/AWS/GCP), firewalls (14 vendors), and report generation ![stars](https://img.shields.io/github/stars/dmauser/network-desk?style=flat-square&label=stars&color=yellow)
+<!-- MOST_POPULAR:END -->
+
+</details>
 
 ---
 
@@ -356,6 +382,7 @@ Community repositories with great Azure Networking content:
 <sub>Auto-generated daily from my public repositories — see <code>.github/workflows/update-repos.yml</code>.</sub>
 
 <!-- RECENTLY_UPDATED:START -->
+- [finops-sre-agent-pack](https://github.com/dmauser/finops-sre-agent-pack) — FinOps skills & agents for Azure SRE Agent (cost anomaly detection + planned rightsizing, showback, budgets, FinOps-for-AI) ![updated](https://img.shields.io/github/last-commit/dmauser/finops-sre-agent-pack?style=flat-square&label=updated&color=informational)
 - [azure-virtualwan](https://github.com/dmauser/azure-virtualwan) — Azure Virtual WAN articles and LABs ![updated](https://img.shields.io/github/last-commit/dmauser/azure-virtualwan?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `networking` · `virtual` · `wan`</sub>
 - [azure-aws-interconnect-lab](https://github.com/dmauser/azure-aws-interconnect-lab) — Minimum-cost lab proving private VM-to-VM connectivity between Azure and AWS over an AWS Interconnect - multicloud link paired with an Azure Multicloud Interconnect ExpressRoute circuit. Terraform + guided PowerShell/bash setup. ![updated](https://img.shields.io/github/last-commit/dmauser/azure-aws-interconnect-lab?style=flat-square&label=updated&color=informational)
 - [azure-zt-lab](https://github.com/dmauser/azure-zt-lab) — Lab using Zero Tier ![updated](https://img.shields.io/github/last-commit/dmauser/azure-zt-lab?style=flat-square&label=updated&color=informational)
@@ -365,7 +392,6 @@ Community repositories with great Azure Networking content:
 - [azure-vnet-encryption](https://github.com/dmauser/azure-vnet-encryption) — Lab Azure Virtual Network Encryption ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vnet-encryption?style=flat-square&label=updated&color=informational)
 - [azure-monitor-workshop](https://github.com/dmauser/azure-monitor-workshop) — One-command Azure Monitor observability demo lab: Logs Ingestion API, DCE/DCRs, custom tables, and synthetic telemetry across five real-world scenarios. ![updated](https://img.shields.io/github/last-commit/dmauser/azure-monitor-workshop?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `azure-monitor` · `bicep` · `hands-on-lab` · `kql` · `log-analytics`</sub>
 - [azure-er-vpn-coexistence](https://github.com/dmauser/azure-er-vpn-coexistence) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-er-vpn-coexistence?style=flat-square&label=updated&color=informational)
-- [network-desk](https://github.com/dmauser/network-desk) — Network Desk - GitHub Copilot CLI extension pack: 20 specialist AI agents for cloud networking (Azure/AWS/GCP), firewalls (14 vendors), and report generation ![updated](https://img.shields.io/github/last-commit/dmauser/network-desk?style=flat-square&label=updated&color=informational)
 <!-- RECENTLY_UPDATED:END -->
 
 </details>
