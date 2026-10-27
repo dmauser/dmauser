@@ -383,6 +383,7 @@ Community repositories with great Azure Networking content:
 
 <!-- RECENTLY_UPDATED:START -->
 - [finops-sre-agent-pack](https://github.com/dmauser/finops-sre-agent-pack) — FinOps skills & agents for Azure SRE Agent (cost anomaly detection + planned rightsizing, showback, budgets, FinOps-for-AI) ![updated](https://img.shields.io/github/last-commit/dmauser/finops-sre-agent-pack?style=flat-square&label=updated&color=informational)
+- [azure-dnsresolver-failover](https://github.com/dmauser/azure-dnsresolver-failover) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-dnsresolver-failover?style=flat-square&label=updated&color=informational)
 - [azure-virtualwan](https://github.com/dmauser/azure-virtualwan) — Azure Virtual WAN articles and LABs ![updated](https://img.shields.io/github/last-commit/dmauser/azure-virtualwan?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `networking` · `virtual` · `wan`</sub>
 - [azure-aws-interconnect-lab](https://github.com/dmauser/azure-aws-interconnect-lab) — Minimum-cost lab proving private VM-to-VM connectivity between Azure and AWS over an AWS Interconnect - multicloud link paired with an Azure Multicloud Interconnect ExpressRoute circuit. Terraform + guided PowerShell/bash setup. ![updated](https://img.shields.io/github/last-commit/dmauser/azure-aws-interconnect-lab?style=flat-square&label=updated&color=informational)
 - [azure-zt-lab](https://github.com/dmauser/azure-zt-lab) — Lab using Zero Tier ![updated](https://img.shields.io/github/last-commit/dmauser/azure-zt-lab?style=flat-square&label=updated&color=informational)
@@ -391,7 +392,6 @@ Community repositories with great Azure Networking content:
 - [ms-foundry-secure-access](https://github.com/dmauser/ms-foundry-secure-access) — Securing access to Azure AI Foundry (.NET 8 App Service) — 3 scenarios: Private Endpoint, Network Security Perimeter with managed-identity access, and VNet-injected private Agent with app-side RAG over private AI Search. ![updated](https://img.shields.io/github/last-commit/dmauser/ms-foundry-secure-access?style=flat-square&label=updated&color=informational)
 - [azure-vnet-encryption](https://github.com/dmauser/azure-vnet-encryption) — Lab Azure Virtual Network Encryption ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vnet-encryption?style=flat-square&label=updated&color=informational)
 - [azure-monitor-workshop](https://github.com/dmauser/azure-monitor-workshop) — One-command Azure Monitor observability demo lab: Logs Ingestion API, DCE/DCRs, custom tables, and synthetic telemetry across five real-world scenarios. ![updated](https://img.shields.io/github/last-commit/dmauser/azure-monitor-workshop?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `azure-monitor` · `bicep` · `hands-on-lab` · `kql` · `log-analytics`</sub>
-- [azure-er-vpn-coexistence](https://github.com/dmauser/azure-er-vpn-coexistence) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-er-vpn-coexistence?style=flat-square&label=updated&color=informational)
 <!-- RECENTLY_UPDATED:END -->
 
 </details>
@@ -406,6 +406,7 @@ Community repositories with great Azure Networking content:
 <sub>Public repos not yet filed into a topic section above — auto-generated, a worklist for curation.</sub>
 
 <!-- NEW_REPOS:START -->
+- [azure-dnsresolver-failover](https://github.com/dmauser/azure-dnsresolver-failover) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-dnsresolver-failover?style=flat-square&label=updated&color=informational)
 - [azure-zt-lab](https://github.com/dmauser/azure-zt-lab) — Lab using Zero Tier ![updated](https://img.shields.io/github/last-commit/dmauser/azure-zt-lab?style=flat-square&label=updated&color=informational)
 - [az-dnsruleset-failover](https://github.com/dmauser/az-dnsruleset-failover) — Empirical Azure lab measuring DNS Private Resolver behaviour with multiple destination DNS servers in a Forwarding Ruleset: selection algorithm, failover timing, exponential backoff, and recovery ![updated](https://img.shields.io/github/last-commit/dmauser/az-dnsruleset-failover?style=flat-square&label=updated&color=informational)
 - [azure-monitor-workshop](https://github.com/dmauser/azure-monitor-workshop) — One-command Azure Monitor observability demo lab: Logs Ingestion API, DCE/DCRs, custom tables, and synthetic telemetry across five real-world scenarios. ![updated](https://img.shields.io/github/last-commit/dmauser/azure-monitor-workshop?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `azure-monitor` · `bicep` · `hands-on-lab` · `kql` · `log-analytics`</sub>
