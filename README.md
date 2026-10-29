@@ -382,6 +382,7 @@ Community repositories with great Azure Networking content:
 <sub>Auto-generated daily from my public repositories — see <code>.github/workflows/update-repos.yml</code>.</sub>
 
 <!-- RECENTLY_UPDATED:START -->
+- [network-desk](https://github.com/dmauser/network-desk) — Network Desk - GitHub Copilot CLI extension pack: 20 specialist AI agents for cloud networking (Azure/AWS/GCP), firewalls (14 vendors), and report generation ![updated](https://img.shields.io/github/last-commit/dmauser/network-desk?style=flat-square&label=updated&color=informational)
 - [finops-sre-agent-pack](https://github.com/dmauser/finops-sre-agent-pack) — FinOps skills & agents for Azure SRE Agent (cost anomaly detection + planned rightsizing, showback, budgets, FinOps-for-AI) ![updated](https://img.shields.io/github/last-commit/dmauser/finops-sre-agent-pack?style=flat-square&label=updated&color=informational)
 - [azure-dnsresolver-failover](https://github.com/dmauser/azure-dnsresolver-failover) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-dnsresolver-failover?style=flat-square&label=updated&color=informational)
 - [azure-virtualwan](https://github.com/dmauser/azure-virtualwan) — Azure Virtual WAN articles and LABs ![updated](https://img.shields.io/github/last-commit/dmauser/azure-virtualwan?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `networking` · `virtual` · `wan`</sub>
@@ -391,7 +392,6 @@ Community repositories with great Azure Networking content:
 - [AzureVM-Router](https://github.com/dmauser/AzureVM-Router) — Deploy Azure VM (Linux or Windows) with IP forwarding enabled to be used as Router ![updated](https://img.shields.io/github/last-commit/dmauser/AzureVM-Router?style=flat-square&label=updated&color=informational)
 - [ms-foundry-secure-access](https://github.com/dmauser/ms-foundry-secure-access) — Securing access to Azure AI Foundry (.NET 8 App Service) — 3 scenarios: Private Endpoint, Network Security Perimeter with managed-identity access, and VNet-injected private Agent with app-side RAG over private AI Search. ![updated](https://img.shields.io/github/last-commit/dmauser/ms-foundry-secure-access?style=flat-square&label=updated&color=informational)
 - [azure-vnet-encryption](https://github.com/dmauser/azure-vnet-encryption) — Lab Azure Virtual Network Encryption ![updated](https://img.shields.io/github/last-commit/dmauser/azure-vnet-encryption?style=flat-square&label=updated&color=informational)
-- [azure-monitor-workshop](https://github.com/dmauser/azure-monitor-workshop) — One-command Azure Monitor observability demo lab: Logs Ingestion API, DCE/DCRs, custom tables, and synthetic telemetry across five real-world scenarios. ![updated](https://img.shields.io/github/last-commit/dmauser/azure-monitor-workshop?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `azure-monitor` · `bicep` · `hands-on-lab` · `kql` · `log-analytics`</sub>
 <!-- RECENTLY_UPDATED:END -->
 
 </details>
