@@ -382,8 +382,8 @@ Community repositories with great Azure Networking content:
 <sub>Auto-generated daily from my public repositories — see <code>.github/workflows/update-repos.yml</code>.</sub>
 
 <!-- RECENTLY_UPDATED:START -->
-- [finops-sre-agent-pack](https://github.com/dmauser/finops-sre-agent-pack) — FinOps skills & agents for Azure SRE Agent (cost anomaly detection + planned rightsizing, showback, budgets, FinOps-for-AI) ![updated](https://img.shields.io/github/last-commit/dmauser/finops-sre-agent-pack?style=flat-square&label=updated&color=informational)
 - [az-sre-dtrace-snow](https://github.com/dmauser/az-sre-dtrace-snow) ![updated](https://img.shields.io/github/last-commit/dmauser/az-sre-dtrace-snow?style=flat-square&label=updated&color=informational)
+- [finops-sre-agent-pack](https://github.com/dmauser/finops-sre-agent-pack) — FinOps skills & agents for Azure SRE Agent (cost anomaly detection + planned rightsizing, showback, budgets, FinOps-for-AI) ![updated](https://img.shields.io/github/last-commit/dmauser/finops-sre-agent-pack?style=flat-square&label=updated&color=informational)
 - [network-desk](https://github.com/dmauser/network-desk) — Network Desk - GitHub Copilot CLI extension pack: 20 specialist AI agents for cloud networking (Azure/AWS/GCP), firewalls (14 vendors), and report generation ![updated](https://img.shields.io/github/last-commit/dmauser/network-desk?style=flat-square&label=updated&color=informational)
 - [azure-dnsresolver-failover](https://github.com/dmauser/azure-dnsresolver-failover) ![updated](https://img.shields.io/github/last-commit/dmauser/azure-dnsresolver-failover?style=flat-square&label=updated&color=informational)
 - [azure-virtualwan](https://github.com/dmauser/azure-virtualwan) — Azure Virtual WAN articles and LABs ![updated](https://img.shields.io/github/last-commit/dmauser/azure-virtualwan?style=flat-square&label=updated&color=informational)<br>  <sub>`azure` · `networking` · `virtual` · `wan`</sub>
